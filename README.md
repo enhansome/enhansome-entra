@@ -1,1 +1,366 @@
-# enhansome-entra
+# Awesome Entra with stars
+
+> A curated list of awesome Microsoft Entra tools, guides, and other resources.
+
+## Contents
+
+* [Merill's newsletter & podcast](#merills-newsletter--podcast)
+* [Mind Map](#mind-map)
+* [Learning Hubs](#learning-hubs)
+* [Presentations](#presentations)
+* [aka.ms](#akams--cmdms)
+* [Tools](#tools)
+* [Community](#community)
+* [YouTube](#youtube)
+* [Podcast](#podcast)
+* [Bluesky](#bluesky)
+* [Twitter](#twitter)
+* [LinkedIn](#linkedin)
+* [Blogs](#blogs)
+
+## Merill's newsletter & podcast
+
+* [Entra.News](https://entra.news) - Weekly round up of the latest Microsoft Entra news from Microsoft and the community.
+* [Entra.Chat](https://entra.chat) - Weekly podcast on Entra featuring seasoned Entra practitioners and Microsoft Entra product group team members.
+
+## Mind Map
+
+* [Microsoft Entra Mind Maps](https://entra.news/p/entra-mind-maps) - Visual representation of Microsoft Entra and its components with links to docs. Includes Entra Roles mindmap.
+
+## Learning Hubs
+
+These learning hubs are maintained by Microsoft Entra's Customer Experience Engineering (CxE) team.
+
+* [Identity Master Class](https://github.com/IdentityMan/MasterclassELDK26) ⭐ 115 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-26 - Lab & Resource Source for Identity Master Class - Experts Live Denmark 2026
+* [Entra ID as Code Workshop](https://github.com/mjendza/workshop-entra-as-code-interactive) ⭐ 23 | 🐛 1 | 🌐 PowerShell | 📅 2026-07-27 - Manage your Entra ID tenant using Infrastructure as Code via Terraform. This workshop supports both Workforce and Customer (External ID) instances.
+* [Global Secure Access - Resource Hub](https://aka.ms/GlobalSecureAccessCommunity) - Knowledge hub for all things GSA.
+* [Microsoft Entra ID Governance Training Hub](https://aka.ms/EntraIDGovernanceTraining) - Tools, documentation, and training materials to master ID Governance.
+
+## Presentations
+
+* [Entra Slide Decks](https://slides.entra.news) - Merill's collection of Entra related presentations (Right-click and open Incognito/In Private window)
+
+## aka.ms & cmd.ms
+
+* [cmd.ms/portals/azuread](https://cmd.ms/portals/azuread) - Complete list of shortcuts to blades in the Entra portal.
+* [aka.ms/commands](https://github.com/microsoft/aka) ⭐ 452 | 🐛 20 | 📅 2024-10-30 - List of common Microsoft short links.
+* [msportals.io](https://msportals.io) - Links to all Microsoft admin portals.
+* [aka.ms/entratemplates](https://aka.ms/entratemplates) - Email templates & posters to roll out Microsoft Entra features like MFA, SSPR, and more.
+* [aka.ms/entraidac](https://aka.ms/entraidac) - Microsoft Entra ID Admin Center
+* [aka.ms/myapps](https://aka.ms/myapps) - My Apps
+* [aka.ms/myaccount](https://aka.ms/myaccount) - My Account
+* [aka.ms/my-groups](https://aka.ms/my-groups) - My Groups
+* [aka.ms/my-access](https://aka.ms/my-access) - My Access Packages
+* [aka.ms/mystaff](https://aka.ms/mystaff) - My Staff
+* [aka.ms/mysecurity](https://aka.ms/mysecurity), [aka.ms/mysecurityinfo](https://aka.ms/mysecurityinfo) - My Security Info
+* [aka.ms/mysignins](https://aka.ms/mysignins) - My Sign-ins
+* [aka.ms/pim](https://aka.ms/pim) - Privileged Identity Management - Roles
+* [aka.ms/pimg](https://aka.ms/pimg) - Privileged Identity Management - Groups
+* [aka.ms/pimr](https://aka.ms/pimr) - Privileged Identity Management - Roles
+* [aka.ms/pimz](https://aka.ms/pimz) - Privileged Identity Management - Azure Resources
+* [aka.ms/sspr](https://aka.ms/sspr) - Self Service Password Reset
+* [aka.ms/mfasetup](https://aka.ms/mfasetup) - Alternative for My Security Info
+* [aka.ms/entradocs](https://aka.ms/entradocs) - Microsoft Entra Technical Documentation
+* [aka.ms/graphref](https://aka.ms/graphref) - Microsoft Graph REST API Reference - v1.0
+* [aka.ms/graphrefbeta](https://aka.ms/graphrefbeta) - Microsoft Graph REST API Reference - Beta
+
+## Tools
+
+### Microsoft Product Downloads
+
+* [Microsoft Entra Application Proxy](https://learn.microsoft.com/en-us/entra/identity/app-proxy/application-proxy-release-version-history)
+* [Microsoft Entra Connect](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/reference-connect-version-history)
+* [Microsoft Entra Provisioning Agent](https://learn.microsoft.com/en-us/entra/identity/hybrid/cloud-sync/reference-version-history)
+* [Microsoft Entra Connect Health agents](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/how-to-connect-health-agent-install)
+
+### CLI
+
+* [Evilginx](https://github.com/kgretzky/evilginx2) ⭐ 15,475 | 🐛 269 | 🌐 Go | 📅 2026-06-10 - Man-in-the-middle attack framework [![stars](https://badgen.net/github/stars/kgretzky/evilginx2)](https://badgen.net/github/stars/kgretzky/evilginx2)
+* [BloodHound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,603 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02 - BloodHound uses graph theory to reveal hidden relationships and attack paths in an Active Directory environment that would otherwise be impossible to quickly identify. [![stars](https://badgen.net/github/stars/BloodHoundAD/BloodHound)](https://badgen.net/github/stars/BloodHoundAD/BloodHound)
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,788 | 🐛 295 | 🌐 Python | 📅 2025-09-23 - Multi-Cloud Security auditing tool. [![stars](https://badgen.net/github/stars/nccgroup/ScoutSuite)](https://badgen.net/github/stars/nccgroup/ScoutSuite)
+* [Ping Castle](https://github.com/vletoux/pingcastle) ⭐ 2,923 | 🐛 59 | 🌐 C# | 📅 2026-08-11 - Security Assessment Tool [![stars](https://badgen.net/github/stars/vletoux/pingcastle)](https://badgen.net/github/stars/vletoux/pingcastle)
+* [ROADrecon](https://github.com/dirkjanm/ROADtools) ⭐ 2,691 | 🐛 13 | 🌐 Python | 📅 2026-08-05 - Tool for exploring information in Azure AD from both a Red Team and Blue Team perspective. [![stars](https://badgen.net/github/stars/dirkjanm/ROADtools)](https://badgen.net/github/stars/dirkjanm/ROADtools)
+* [ScubaGear - cisa.gov](https://github.com/cisagov/ScubaGear) ⭐ 2,639 | 🐛 223 | 🌐 PowerShell | 📅 2026-08-13 - PowerShell module developed by CISA to verify M365 tenant configuration confirms to Secure Cloud Business Applications (SCuBA) Security Configuration Baseline. [![stars](https://badgen.net/github/stars/cisagov/ScubaGear)](https://badgen.net/github/stars/cisagov/ScubaGear)
+* [MicroBurst](https://github.com/NetSPI/MicroBurst) ⭐ 2,415 | 🐛 5 | 🌐 PowerShell | 📅 2026-06-29 - PowerShell Toolkit for Attacking Azure. [![stars](https://badgen.net/github/stars/NetSPI/MicroBurst)](https://badgen.net/github/stars/NetSPI/MicroBurst)
+* [Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) ⭐ 2,365 | 🐛 71 | 🌐 PowerShell | 📅 2026-08-13 - Manages, configures, extracts and monitors Microsoft 365 tenant configurations using PowerShell DSC [![stars](https://badgen.net/github/stars/microsoft/Microsoft365DSC)](https://badgen.net/github/stars/microsoft/Microsoft365DSC)
+* [StormSpotter aka.ms/StormSpotter](https://github.com/Azure/Stormspotter) ⭐ 1,713 | 🐛 22 | 🌐 Python | 📅 2024-01-08 - Azure Red Team tool for graphing Azure and Azure Active Directory objects. [![stars](https://badgen.net/github/stars/Azure/Stormspotter)](https://badgen.net/github/stars/Azure/Stormspotter)
+* [AADInternals](https://github.com/Gerenios/AADInternals) ⭐ 1,676 | 🐛 23 | 🌐 PowerShell | 📅 2025-09-30 - PowerShell toolkit for administering and hacking Azure AD and Microsoft 365. [![stars](https://badgen.net/github/stars/Gerenios/AADInternals)](https://badgen.net/github/stars/Gerenios/AADInternals)
+* [GraphRunner](https://github.com/dafthack/GraphRunner/) ⭐ 1,333 | 🐛 4 | 🌐 PowerShell | 📅 2026-04-09 - A Post-exploitation Toolset for Interacting with the Microsoft Graph API [![stars](https://badgen.net/github/stars/dafthack/GraphRunner)](https://badgen.net/github/stars/dafthack/GraphRunner)
+* [PowerZure](https://github.com/hausec/PowerZure) ⭐ 1,290 | 🐛 4 | 🌐 PowerShell | 📅 2025-10-18 - PowerShell project created to perform reconnaissance and exploitation of Azure, AzureAD, and the associated resources. [![stars](https://badgen.net/github/stars/hausec/PowerZure)](https://badgen.net/github/stars/hausec/PowerZure)
+* [Maester](https://github.com/maester365/maester) ⭐ 1,059 | 🐛 54 | 🌐 HTML | 📅 2026-08-13 - Automated test framework for conditional access and Entra configuration [![stars](https://badgen.net/github/stars/maester365/maester)](https://badgen.net/github/stars/maester365/maester)
+* [EntraGoat](https://github.com/Semperis/EntraGoat) ⭐ 973 | 🐛 6 | 🌐 PowerShell | 📅 2026-05-06 - Deliberately vulnerable Microsoft Entra ID infrastructure to simulate security misconfigurations and attack vectors [![stars](https://badgen.net/github/stars/Semperis/EntraGoat)](https://badgen.net/github/stars/Semperis/EntraGoat)
+* [Entra Exporter aka.ms/EntraExporter](https://github.com/microsoft/EntraExporter) ⭐ 876 | 🐛 21 | 🌐 PowerShell | 📅 2025-11-16 - PowerShell module that exports all the config and data of a Microsoft Entra tenant. [![stars](https://badgen.net/github/stars/microsoft/EntraExporter)](https://badgen.net/github/stars/microsoft/EntraExporter)
+* [Azure AD Assessment aka.ms/AzureADAssessmentTools](https://github.com/AzureAD/AzureADAssessment/wiki) ⭐ 851 | 🐛 3 | 🌐 PowerShell | 📅 2024-06-12 - Guidance to assess the health of an Azure AD tenant and provide best practice guidance / recommendations. [![stars](https://badgen.net/github/stars/AzureAD/AzureADAssessment)](https://badgen.net/github/stars/AzureAD/AzureADAssessment)
+* [Microsoft-Extractor-Suite - Invictus IR](https://github.com/invictus-ir/Microsoft-Extractor-Suite) ⭐ 837 | 🐛 3 | 🌐 PowerShell | 📅 2026-06-29 - PowerShell module for acquisition of data from Microsoft 365 and Azure for Incident Response and Cyber Security purposes. [![stars](https://badgen.net/github/stars/invictus-ir/Microsoft-Extractor-Suite)](https://badgen.net/github/stars/invictus-ir/Microsoft-Extractor-Suite)
+* [TokenTactics](https://github.com/rvrsh3ll/TokenTactics) ⭐ 737 | 🐛 7 | 🌐 PowerShell | 📅 2024-12-06 - Tool to test and demonstrate the impact of token-based attacks on Microsoft Entra. [![stars](https://badgen.net/github/stars/rvrsh3ll/TokenTactics)](https://badgen.net/github/stars/rvrsh3ll/TokenTactics)
+* [M365Documentation](https://github.com/ThomasKur/M365Documentation) ⭐ 627 | 🐛 15 | 🌐 PowerShell | 📅 2026-03-15 - Automatic Microsoft 365 Documentation to simplify the life of admins and consultants.
+* [BadZure](https://github.com/mvelazc0/BadZure) ⭐ 518 | 🐛 0 | 🌐 Python | 📅 2026-08-06 - A tool to simulate common Entra security misconfigurations. [![stars](https://badgen.net/github/stars/mvelazc0/BadZure)](https://badgen.net/github/stars/mvelazc0/BadZure)
+* [TokenTacticsV2](https://github.com/f-bader/TokenTacticsV2) ⭐ 444 | 🐛 2 | 🌐 PowerShell | 📅 2026-08-12 - Fork of the great TokenTactics with support for CAE and token endpoint. [![stars](https://badgen.net/github/stars/f-bader/TokenTacticsV2)](https://badgen.net/github/stars/f-bader/TokenTacticsV2)
+* [DCToolbox](https://github.com/DanielChronlund/DCToolbox) ⭐ 379 | 🐛 47 | 🌐 PowerShell | 📅 2024-11-26 - Collection of tools for Conditional Access automation, what-if simulation and more. [![stars](https://badgen.net/github/stars/DanielChronlund/DCToolbox)](https://badgen.net/github/stars/DanielChronlund/DCToolbox)
+* [family-of-client-ids-research](https://github.com/secureworks/family-of-client-ids-research) ⭐ 368 | 🐛 3 | 🌐 Python | 📅 2024-02-23 - Research into Undocumented Behavior of Azure AD Refresh Tokens [![stars](https://badgen.net/github/stars/secureworks/family-of-client-ids-research)](https://badgen.net/github/stars/secureworks/family-of-client-ids-research)
+* [CA Optics](https://github.com/jsa2/caOptics) ⚠️ Archived - Conditional Access gap analyzer [![stars](https://badgen.net/github/stars/jsa2/caOptics)](https://badgen.net/github/stars/jsa2/caOptics)
+* [MSIdentityTools aka.ms/msid](https://github.com/AzureAD/MSIdentityTools) ⭐ 300 | 🐛 14 | 🌐 PowerShell | 📅 2025-11-18 - Collection of useful cmdlets for common Entra functionality. [![stars](https://badgen.net/github/stars/AzureAD/MSIdentityTools)](https://badgen.net/github/stars/AzureAD/MSIdentityTools)
+* [EntraOps](https://github.com/Cloud-Architekt/EntraOps) ⭐ 294 | 🐛 16 | 🌐 PowerShell | 📅 2026-06-24 - Classify, identify and protect your privileges based on Enterprise Access Model [![stars](https://badgen.net/github/stars/Cloud-Architekt/EntraOps)](https://badgen.net/github/stars/Cloud-Architekt/EntraOps)
+* [AzADServicePrincipalInsights](https://github.com/JulianHayward/AzAdServicePrincipalInsights) ⭐ 254 | 🐛 1 | 🌐 PowerShell | 📅 2026-08-05 - Insights and change tracking on Service Principals/ Applications and Managed Identities (outputs html, csv, json). [![stars](https://badgen.net/github/stars/JulianHayward/AzADServicePrincipalInsights)](https://badgen.net/github/JulianHayward/AzADServicePrincipalInsights)
+* [Microsoft First Party AppNames aka.ms/AppNames](https://github.com/merill/microsoft-info/) ⭐ 243 | 🐛 3 | 🌐 PowerShell | 📅 2026-08-11 - Repository hosting a daily updated csv/json of Microsoft first party app names and their GUIDs (useful for kql queries and scripts). [![stars](https://badgen.net/github/stars/merill/microsoft-info)](https://badgen.net/github/stars/merill/microsoft-info)
+* [EasyPIM](https://github.com/kayasax/EasyPIM) ⭐ 235 | 🐛 3 | 🌐 PowerShell | 📅 2026-04-12 - Manage PIM Azure Resource role and assignment with ease. [![stars](https://badgen.net/github/stars/kayasax/EasyPIM)](https://badgen.net/github/stars/kayasax/EasyPIM)
+* [AzurePrivilegedIAM](https://github.com/Cloud-Architekt/AzurePrivilegedIAM) ⭐ 191 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-13 - Docs and samples for privileged identity and access management in Microsoft Azure and Microsoft Entra [![stars](https://badgen.net/github/stars/Cloud-Architekt/AzurePrivilegedIAM)](https://badgen.net/github/stars/Cloud-Architekt/AzurePrivilegedIAM)
+* [ConditionalAccessDocumentation](https://github.com/nicolonsky/ConditionalAccessDocumentation) ⭐ 168 | 🐛 0 | 🌐 PowerShell | 📅 2026-06-23 - PowerShell module to document Conditional Access policies in Excel. [![stars](https://badgen.net/github/stars/nicolonsky/ConditionalAccessDocumentation)](https://badgen.net/github/stars/nicolonsky/ConditionalAccessDocumentation)
+* [Microsoft-Cloud-Group-Analyzer](https://github.com/jasperbaes/Microsoft-Cloud-Group-Analyzer) ⭐ 163 | 🐛 9 | 🌐 JavaScript | 📅 2025-09-02 - Provides instant insights in what services, policies,... a given group or user is scoped to. [![stars](https://badgen.net/github/stars/jasperbaes/Microsoft-Cloud-Group-Analyzer)](https://badgen.net/github/stars/jasperbaes/Microsoft-Cloud-Group-Analyzer)
+* [Microsoft cloud group analyzer](https://github.com/jasperbaes/Microsoft-Cloud-Group-Analyzer) ⭐ 163 | 🐛 9 | 🌐 JavaScript | 📅 2025-09-02 - Sript that provides insights in what services/policies/... a given group or user is scoped to. [![stars](https://badgen.net/github/stars/jasperbaes/Microsoft-Cloud-Group-Analyzer)](https://badgen.net/github/stars/jasperbaes/Microsoft-Cloud-Group-Analyzer)
+* [ROPCI](https://github.com/wunderwuzzi23/ropci) ⭐ 134 | 🐛 0 | 🌐 Go | 📅 2022-11-21 - Identify MFA gaps in your Entra configuration that allow API access through ROPC. [![stars](https://badgen.net/github/stars/wunderwuzzi23/ropci)](https://badgen.net/github/stars/wunderwuzzi23/ropci)
+* [Azure-AccessPermissions](https://github.com/csandker/Azure-AccessPermissions) ⚠️ Archived - Script to enumerate access permissions in an Azure Active Directory environment [![stars](https://badgen.net/github/stars/csandker/Azure-AccessPermissions)](https://badgen.net/github/stars/csandker/Azure-AccessPermissions)
+* [365AutomatedLab](https://github.com/DevClate/365AutomatedLab) ⭐ 105 | 🐛 0 | 🌐 PowerShell | 📅 2025-02-27 - Create a Microsoft 365 Test Environment using a test data from an Excel workbook. [![stars](https://badgen.net/github/stars/DevClate/365AutomatedLab)](https://badgen.net/github/stars/DevClate/365AutomatedLab)
+* [MiniGraph](https://github.com/FriedrichWeinmann/MiniGraph) ⭐ 41 | 🐛 2 | 🌐 PowerShell | 📅 2024-03-19 - Minimal overhead Microsoft Graph client implementation for lean environment like Azure Functions [![stars](https://badgen.net/github/stars/FriedrichWeinmann/MiniGraph)](https://badgen.net/github/stars/FriedrichWeinmann/MiniGraph)
+* [M365IdentityPosture](https://github.com/Noble-Effeciency13/M365IdentityPosture) ⭐ 36 | 🐛 0 | 🌐 PowerShell | 📅 2026-05-21 - M365IdentityPosture is an extensible PowerShell framework for security posture assessment and identity governance reporting across Microsoft 365, Azure AD/Entra ID, and hybrid environments.
+* [Entra Export Template](https://github.com/aaronparker/entra-export-template) ⭐ 16 | 🐛 0 | 🌐 PowerShell | 📅 2026-06-19 - Workflows for scheduled export of settings from an Entra tenant. [![stars](https://badgen.net/github/stars/aaronparker/entra-export-template)](https://badgen.net/github/stars/aaronparker/entra-export-template)
+* [JWTDetails](https://github.com/darrenjrobinson/JWTDetails) ⭐ 15 | 🐛 0 | 🌐 PowerShell | 📅 2024-07-04 - Decode a JWT Access Token and convert to a PowerShell Object. PowerShell Object also includes the JWT Signature (sig), JWT Token Expiry (expiryDateTime) and JWT Token time to expiry (timeToExpiry). [![stars](https://badgen.net/github/stars/darrenjrobinson/JWTDetails)](https://badgen.net/github/stars/darrenjrobinson/JWTDetails)
+* [MicrosoftGraphPS](https://github.com/KnudsenMorten/MicrosoftGraphPS) ⭐ 15 | 🐛 1 | 🌐 PowerShell | 📅 2025-04-28 - Version manager for the Graph PowerShell SDK. [![stars](https://badgen.net/github/stars/KnudsenMorten/MicrosoftGraphPS)](https://badgen.net/github/stars/KnudsenMorten/MicrosoftGraphPS)
+* [PSMSGraphBatchRequest](https://github.com/HCRitter/PSMSGraphBatchRequest) ⭐ 11 | 🐛 0 | 🌐 PowerShell | 📅 2024-01-26 - PowerShell module to transform data into Microsoft Graph Batch Requests. [![stars](https://badgen.net/github/stars/HCRitter/PSMSGraphBatchRequest)](https://badgen.net/github/stars/HCRitter/PSMSGraphBatchRequest)
+* [AzurePasswordProtectionCalculator](https://github.com/jkerai1/AzurePasswordProtectionCalculator/) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-05-02 - Calculator for Azure Password Protection [![stars](https://badgen.net/github/stars/jkerai1/AzurePasswordProtectionCalculator)](https://badgen.net/github/stars/jkerai1/AzurePasswordProtectionCalculator)
+* [X509Details](https://github.com/darrenjrobinson/X509Details) ⭐ 8 | 🐛 0 | 🌐 PowerShell | 📅 2024-05-28 - Decode an X509 Certificate and present it as a PowerShell Object. Certificate PowerShell Object details updated to include the X509 Certificate time to expiry (timeToExpiry). [![stars](https://badgen.net/github/stars/darrenjrobinson/X509Details)](https://badgen.net/github/stars/darrenjrobinson/X509Details)
+* [AzureADTenantID](https://github.com/darrenjrobinson/AzureADTenantID) ⭐ 5 | 🐛 1 | 🌐 PowerShell | 📅 2023-07-21 - PowerShell module to retrieve the TenantID for an Azure AD Tenant. [![stars](https://badgen.net/github/stars/darrenjrobinson/AzureADTenantID)](https://badgen.net/github/stars/darrenjrobinson/AzureADTenantID)
+* [ConvertTime](https://github.com/darrenjrobinson/ConvertTime) ⭐ 5 | 🐛 0 | 🌐 PowerShell | 📅 2025-01-07 - Convert Unix/Windows timestamps to a DateTime PowerShell Object. Get Unix/Windows time from a PowerShell DateTime Object. [![stars](https://badgen.net/github/stars/darrenjrobinson/ConvertTime)](https://badgen.net/github/stars/darrenjrobinson/ConvertTime)
+* [PKCE Code Verifier and Challenge Generator](https://github.com/darrenjrobinson/PKCE) ⭐ 5 | 🐛 0 | 🌐 PowerShell | 📅 2023-10-27 - Generate OAuth 2.0 Proof Key for Code Exchange (PKCE) 'code\_challenge' and 'code\_verifier' for use with an OAuth2 Authorization Code Grant flow. [![stars](https://badgen.net/github/stars/darrenjrobinson/PKCE)](https://badgen.net/github/stars/darrenjrobinson/PKCE)
+* [Passkey Provider AAGUID's](https://github.com/darrenjrobinson/PasskeyProviderAAGUIDs) ⭐ 3 | 🐛 0 | 🌐 PowerShell | 📅 2024-11-17 - Programatically manage Passkey Providers AAGUIDs [![stars](https://badgen.net/github/stars/darrenjrobinson/PasskeyProviderAAGUIDs)](https://badgen.net/github/stars/darrenjrobinson/PasskeyProviderAAGUIDs)
+* [DIDSearcher](https://github.com/darrenjrobinson/DIDSearcher) ⭐ 1 | 🐛 0 | 🌐 PowerShell | 📅 2023-10-09 - A PowerShell Module enabling simple methods for searching the ION and Web networks for DIDs to discover their keys and endpoints. [![stars](https://badgen.net/github/stars/darrenjrobinson/DIDSearcher)](https://badgen.net/github/stars/darrenjrobinson/DIDSearcher)
+* [Graph PowerShell Sample Script Repository - aka.ms/graphsamples](https://aka.ms/graphsamples) - Community contributed repository of common Graph PowerShell scripts
+
+### Web apps
+
+* [SCIMTool](https://github.com/kayasax/SCIMTool) ⭐ 37 | 🐛 1 | 🌐 TypeScript | 📅 2025-11-23 - Provisioning visibility & SCIM 2.0 monitor for Microsoft Entra — deploy in minutes, understand events instantly.
+* [EntraPulse](https://github.com/darrenjrobinson/EntraPulseLite) ⭐ 36 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-05 - AI-Powered Gateway to Microsoft Graph & Docs. Local and Cloud LLM support for Lokka and Docs/Learn MCP.
+* [AADInternals - OSINT](https://aadinternals.com/osint) - OSINT web app that displays tenant information.
+* [API Token Tools](https://apitoken.tools) - Web app to request OAuth 2.0 tokens and tools to help implement Certificate Based Authentication for App Registrations.
+* [Conditional Access Blueprint](https://www.jbaes.be/Conditional-Access-Blueprint) - Four tools to model and create CA policies.
+* [Entra Scopes](https://entrascopes.com/) - The yellow pages of Microsoft first party apps. Includes filtering by scope, FOCI and more.
+* [Entra Sign-In Url Builder](https://signin.merill.net/) - Tool to generate OAuth 2.0 authorization URLs and admin consent urls. Handy for testing SSO.
+* [Graph Explorer aka.ms/ge](https://aka.ms/ge) - Graph Explorer is a web-based tool to help you understand and test Microsoft Graph APIs.
+* [Graph Permissions Explorer](https://graphpermissions.merill.net/) - Find out what Graph APIs are accessible for each Graph Permission Scope.
+* [Graph Permissions Explorer for Terraform](https://permissions.factorlabs.pl/) - Find, select and build ready Terraform Entra ID Service Principal Graph API Permissions.
+* [idPowerToys](https://idpowertoys.merill.net) - Microsoft Entra related power toys including a Conditional Access visualizer and Entra mind maps.
+* [SCIM Playground](https://scim.dev/) - SCIM Playground is a web-based tool to help you understand and test SCIM APIs.
+* [Tenant Lookup](https://gettenantpartitionweb.azurewebsites.net/) - Shows where tenant is located. Run by Microsoft 365 U.S. Government Programs team
+
+### Log Analytics, KQL, Logic Apps...
+
+* [Entra ID Security Config Analyzer (EIDSCA)](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md) ⭐ 2,549 | 🐛 9 | 🌐 PowerShell | 📅 2026-06-30 - Monitor Entra ID security configuration using Log Analytics, Azure Workbook and Sentinel. [![stars](https://badgen.net/github/stars/Cloud-Architekt/AzureAD-Attack-Defense)](https://badgen.net/github/stars/Cloud-Architekt/AzureAD-Attack-Defense)
+* [Hunting Queries & Detection Rules - Azure Active Directory](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules/tree/main/Azure%20Active%20Directory) ⭐ 1,731 | 🐛 0 | 🌐 Python | 📅 2026-07-23
+* [Dalonso-Security-Repo](https://github.com/davidalonsod/Dalonso-Security-Repo) ⭐ 115 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-08-02 - This space is dedicated to sharing knowledge, tools, and practical examples related to Microsoft Security technologies.
+* [Automatically Exclude BreakGlass Group From Conditional Access](https://github.com/Cyberlorians/Articles/blob/main/AutoExcludeCAP.md) ⭐ 57 | 🐛 4 | 📅 2026-08-13 - Logic App to automatically exclude a BreakGlass group from Conditional Access policies.
+* [EntraID-MFA-DynamicGroup](https://github.com/M365-Consultant/EntraID-MFA-DynamicGroup) ⭐ 17 | 🐛 3 | 🌐 PowerShell | 📅 2023-10-12 - Azure Runbook to automatically add users to a group based on MFA status.  [![stars](https://badgen.net/github/stars/M365-Consultant/EntraID-MFA-DynamicGroup)](https://badgen.net/github/stars/M365-Consultant/EntraID-MFA-DynamicGroup)
+* [EntraID-Group-Cleanup](https://github.com/M365-Consultant/EntraID-Group-Cleanup) ⭐ 5 | 🐛 0 | 🌐 PowerShell | 📅 2023-10-23 - Azure Runbook to automatically remove users from a group based on time of membership (e.g. 30 days).  [![stars](https://badgen.net/github/stars/M365-Consultant/EntraID-MFA-DynamicGroup)](https://badgen.net/github/stars/M365-Consultant/EntraID-MFA-DynamicGroup)
+
+## Certifications
+
+* [Microsoft Certified: Identity and Access Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/)
+* [SC-300: Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-300/)
+* [SC-300: Learning Path](https://learn.microsoft.com/en-us/training/paths/implement-identity-management-solution/)
+* [Study guide for Exam SC-300: Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-gb/credentials/certifications/resources/study-guides/sc-300)
+* [SC-300 exam prep videos - Microsoft Learn](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-sc-300-implement-identities-in-azure-ad-1-of-4)
+* [Course SC-300T00-A: Identity and Access Administrator](https://learn.microsoft.com/en-us/training/courses/sc-300t00)
+* [John Savill's SC-300 Cram - Playlist](https://www.youtube.com/watch?v=LGpgqRVG65g\&list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y)
+
+## Community
+
+* [Reddit /r/Entra](https://www.reddit.com/r/Entra) - Subreddit for discussing Microsoft Entra.
+* [Discord discord.entra.news](https://discord.entra.news) - Discord server for discussing Microsoft Entra.
+* [Slack - MacAdmins #microsoft-entra channel](https://macadmins.slack.com/archives/C03PDM79GKG) - Slack channel for discussing Microsoft Entra related to Apple devices.
+* [LinkedIn Group - Microsoft Entra](https://www.linkedin.com/groups/8780811/) - LinkedIn group for discussing Microsoft Entra.
+
+## YouTube
+
+### Channels
+
+* [Andy Malone (@AndyMaloneMVP)](https://www.youtube.com/@AndyMaloneMVP), MVP
+* [John Craddock Identity and Access Training (@john\_craddock)](https://www.youtube.com/@john_craddock), MVP
+* [John Savill (@NTFAQGuy)](https://www.youtube.com/@NTFAQGuy), Microsoft
+* [Merill Fernando (@merillx))](https://www.youtube.com/@merillx), Microsoft
+* [Peter Rising (@peterrisingM365)](https://www.youtube.com/@peterrisingM365), MVP
+* [RioCloudSync (@RioCloudSync)](https://www.youtube.com/@RioCloudSync), MVP
+* [Tech Mind Factory (@TechMindFactory)](https://www.youtube.com/@TechMindFactory), MVP
+* [Threatscape (@threatscape)](https://www.youtube.com/@threatscape), MVP
+
+### Playlist
+
+* [Phishing Resistant Authentication in Microsoft Entra](https://www.youtube.com/playlist?list=PL3ZTgFEc7LysTnItcN7SJnJ6wpPJif2-k)
+
+## Podcast
+
+* [Azure Security Podcast](https://azuresecuritypodcast.azurewebsites.net/)
+* [Entra Chat](https://entra.chat)
+* [Ctrl+Alt+Azure](https://ctrlaltazure.com/)
+
+### Shows
+
+#### Entra ID Architecture Deep Dive
+
+* [Microsoft Entra ID Core Store: Data centers](https://youtu.be/O8ZPjSxNte0)
+* [Microsoft Entra ID Core Store: Read and write replicas](https://www.youtube.com/watch?v=AeLDtcpKc-U)
+* [Microsoft Entra ID Core Store: Scale units](https://www.youtube.com/watch?v=OcKO44GtHh8)
+
+## Awesome blog posts
+
+These posts will make your head hurt, but in a good way.
+
+* [Microsoft Incident Response lessons on preventing cloud identity compromise](https://www.microsoft.com/en-us/security/blog/2023/12/05/microsoft-incident-response-lessons-on-preventing-cloud-identity-compromise/)
+
+## Bluesky
+
+* [Damien Bowden](https://bsky.app/profile/damienbod.bsky.social), MVP
+* [Merill Fernando](https://bsky.app/profile/merill.net), Microsoft
+* [Daniel Krzyczkowski](https://bsky.app/profile/tech-mind-factory.bsky.social), MVP
+* [Darren Robinson](https://bsky.app/profile/darrenjrobinson.com), MVP
+
+## Twitter
+
+* [Ali Tajran (@alitajran)](https://twitter.com/alitajran)
+* [Andy Robbins (@\_wald0)](https://twitter.com/_wald0), BloodHound
+* [Claus Jespersen](https://twitter.com/cjaspersen), Microsoft
+* [Darren Robinson (@darrenjrobinson)](https://twitter.com/darrenjrobinson), MVP
+* [Daniel Krzyczkowski (@DKrzyczkowski)](https://twitter.com/DKrzyczkowski), MVP
+* [Daniel Bradley (@DanielatOCN)](https://twitter.com/DanielatOCN), MVP
+* [DebugPrivilege (@DebugPrivilege)](https://twitter.com/DebugPrivilege), Ex MVP
+* [Dirk-jan (@\_dirkjan)](https://twitter.com/_dirkjan), ROADrecon
+* [Dr. Nestori Syynimaa (@DrAzureAD)](https://twitter.com/DrAzureAD), AADInternals, Microsoft
+* [Erica Zelic (@EricaZelic)](https://twitter.com/EricaZelic)
+* [Fabian Bader (@fabian\_bader)](https://twitter.com/fabian_bader), MVP
+* [Jan Bakker (@janbakker\_)](https://twitter.com/janbakker_), MVP
+* [Jef Kazimer (@jefkazimer)](https://twitter.com/jefkazimer), Microsoft
+* [Jeffrey Appel (@JeffreyAppel7)](https://twitter.com/JeffreyAppel7), MVP
+* [Joe Stocker (@ITguySoCal)](https://twitter.com/ITguySoCal), MVP
+* [John Savill (@NTFAQGuy)](https://twitter.com/NTFAQGuy), Microsoft
+* [Jon Jarvis (@jonjarvis)](https://twitter.com/jonjarvis), MVP
+* [Jon Towles (@m0bilej0n)](https://twitter.com/m0bilej0n), MVP
+* [Joosua Santasalo (@SantasaloJoosua)](https://twitter.com/SantasaloJoosua), MVP
+* [@inversecos](https://twitter.com/inversecos)
+* [Karl Fosaaen (@kfosaaen)](https://twitter.com/kfosaaen), MicroBurst
+* [Lukas Beran (@lukasberancz)](https://twitter.com/lukasberancz), Microsoft
+* [Marius Solbakken (@mariussolbakken)](https://twitter.com/mariussolbakken)
+* [Matt Zorich (@reprise\_99)](https://twitter.com/reprise_99), Microsoft
+* [Matthew Levy (@mattchatt42)](https://twitter.com/mattchatt42), MVP
+* [Merill Fernando (@merill)](https://twitter.com/merill), Microsoft
+* [Nathan McNulty (@nathanmcnulty)](https://x.com/NathanMcNulty), MVP
+* [Nick Ludwig (@welcome2theDL)](https://twitter.com/welcome2theDL), Microsoft
+* [Olaf Hartong (@olafhartong), MVP](https://twitter.com/olafhartong), MVP
+* [Pim Jacobs (@pimjacobs89), MVP](https://twitter.com/pimjacobs89), MVP
+* [mRr3b00t (@mRr3b00t)](https://twitter.com/mRr3b00t)
+* [Nathan McNulty (@nathanmcnulty)](https://twitter.com/nathanmcnulty)
+* [Rod Trent (@rodtrent)](https://twitter.com/rodtrent), Microsoft
+* [rootsecdev (@rootsecdev)](https://twitter.com/rootsecdev)
+* [Ryan Hausknecht (@Haus3c)](https://twitter.com/Haus3c)
+* [Ryan Yates (@ryanyates1990)](https://twitter.com/ryanyates1990), Former MVP in Cloud & Datacenter Management
+* [Sean Metcalf (@PyroTek3)](https://twitter.com/PyroTek3)
+* [Stian A. Strysse (@stianstrysse)](https://twitter.com/stianstrysse)
+* [Suryendu Bhattacharyya (@crookedbong)](https://twitter.com/crookedbong)
+* [@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity)
+* [Thomas Naunheim (@thomas\_live), MVP](https://twitter.com/thomas_live), MVP
+* [Thijs Lecomte (@ThijsLecomte), MVP](https://twitter.com/ThijsLecomte), MVP
+* [Tony Redmond (@12Knocksinna)](https://twitter.com/12Knocksinna),  MVP
+
+## LinkedIn
+
+* [Damien Bowden](https://www.linkedin.com/in/damien-bowden-42a450176/), MVP
+* [Jan Bakker](https://www.linkedin.com/in/jan-bakker/), MVP
+* [Chetan Desai](https://www.linkedin.com/in/cmmdesai/), Microsoft
+* [Christina Morillo](https://www.linkedin.com/in/christinamorillo/), Ex-Microsoft
+* [Eric Mannon](https://www.linkedin.com/in/emannon/), MVP
+* [Eric Woodruff](https://www.linkedin.com/in/ericonidentity/), Semperis
+* [Katie Knowles](https://www.linkedin.com/in/kaknowles/), DataDog
+* [Mark Wahl](https://www.linkedin.com/in/mawahl/), Microsoft
+* [Tee Earls](https://www.linkedin.com/in/teeearls/), Microsoft
+* [Daniel Krzyczkowski](https://www.linkedin.com/in/daniel-krzyczkowski/), MVP
+
+## Blogs
+
+### Microsoft Blogs
+
+* [Microsoft Entra Blog - aka.ms/entrablog](https://aka.ms/entrablog)
+* [Microsoft Entra Developer Blog](https://devblogs.microsoft.com/identity/)
+* [Microosft Security Blog](https://www.microsoft.com/en-us/security/blog/)
+
+### Community Blogs
+
+* [360 Thrive 365 - threesixtythrive365.com](https://www.threesixtythrive365.com/)
+* [Admindroid Blog - blog.admindroid.com](https://blog.admindroid.com/)
+* [Alex Holmeset's Blog - alexholmeset.blog](https://alexholmeset.blog)
+* [Alitajran - alitajran.com](https://www.alitajran.com/)
+* [Andy Robbins - medium.com/@\_wald0](https://medium.com/@_wald0)
+* [Blueboxes - blueboxes.co.uk](https://www.blueboxes.co.uk/)
+* [Brian Reid - c7solutions.com](https://c7solutions.com/)
+* [Darren Robinson - blog.darrenjrobinson.com](https://blog.darrenjrobinson.com/)
+* [Lukas Beran - cswrld.com](https://www.cswrld.com)
+* [Call 4 Cloud - call4cloud.nl](https://call4cloud.nl)
+* [Charbel Nemnom - charbelnemnom.com](https://charbelnemnom.com/)
+* [Ciraltos - ciraltos.com](https://www.ciraltos.com)
+* [Cloud Architekt - cloud-architekt.net](https://www.cloud-architekt.net/)
+* [Cloud Brothers - cloudbrothers.info](https://cloudbrothers.info)
+* [Cloud Coffee - cloudcoffee.ch](https://www.cloudcoffee.ch/)
+* [CloudTips - cloudtips.nl](https://cloudtips.nl/)
+* [Damien Bowden - damienbod.com](https://damienbod.com)
+* [David Okeyode's Blog - davidokeyode.medium.com](https://davidokeyode.medium.com/)
+* [Derk van der Woude - derkvanderwoude.medium.com](https://derkvanderwoude.medium.com)
+* [DirTeam - dirteam.com](https://dirteam.com)
+* [EMS Route - emsroute.com](https://emsroute.com)
+* [F12 - f12.hu](https://f12.hu)
+* [Formula5 - formula5.com](https://formula5.com)
+* [Good Workaround - goodworkaround.com](https://goodworkaround.com/)
+* [Hamet Benoit's Blog - blog.hametbenoit.info](https://blog.hametbenoit.info/)
+* [Hans Brender - hansbrender.com](https://hansbrender.com/)
+* [Hybrid Brothers - hybridbrothers.com](https://hybridbrothers.com/)
+* [Identity Man - identity-man.eu](https://identity-man.eu/)
+* [Idefix Wiki - idefixwiki.no](https://idefixwiki.no/)
+* [In The Cloud 24/7 - inthecloud247.com](https://www.inthecloud247.com/)
+* [Intune IRL - intuneirl.com](https://www.intuneirl.com/)
+* [Icewolf's Blog - blog.icewolf.ch](https://blog.icewolf.ch/)
+* [Jan Bakker - janbakker.tech](https://janbakker.tech)
+* [Jeff Brown's Blog - jeffbrown.tech](https://jeffbrown.tech/)
+* [Julian Jakob - julianjakob.com](https://www.julianjakob.com)
+* [Learning By Doing - learningbydoing.cloud](https://learningbydoing.cloud/)
+* [Merill Fernando's Blog - merill.net](https://merill.net/)
+* [MS Security - mssec.wordpress.com](https://mssec.wordpress.com/)
+* [Matt Chatt - mattchatt.co.za](https://mattchatt.co.za)
+* [Michev.info - michev.info](https://www.michev.info/)
+* [Mike MDM - mikemdm.de](https://mikemdm.de)
+* [MIM And Beyond - suryendub.github.io](https://suryendub.github.io/)
+* [Mateusz Jendza - mjendza.net](https://mjendza.net)
+* [Mobile Jon - mobile-jon.com](https://mobile-jon.com/)
+* [Myron Helgering - myronhelgering.com](https://myronhelgering.com/)
+* [Nate Hutchinson - natehutchinson.co.uk](https://www.natehutchinson.co.uk)
+* [Niels Kok - nielskok.tech](https://www.nielskok.tech/)
+* [Niklas Rast - niklasrast.com](https://niklasrast.com/)
+* [Oceanleaf - oceanleaf.ch](https://oceanleaf.ch)
+* [O365 Reports - o365reports.com](https://o365reports.com/)
+* [Our Cloud Network - ourcloudnetwork.com](https://ourcloudnetwork.com/)
+* [Prajwal Desai - prajwaldesai.com](https://www.prajwaldesai.com)
+* [Poem to MDM - poemtomdm.fr](https://poemtomdm.fr/)
+* [Practical 365 - practical365.com](https://practical365.com/)
+* [Rod Trent's Substack - rodtrent.substack.com](https://rodtrent.substack.com)
+* [Rogier Dijkman - rogierdijkman.medium.com](https://rogierdijkman.medium.com)
+* [Rothe's Blog - blog.rothe.uk](https://blog.rothe.uk/)
+* [RootSecDev - rootsecdev.medium.com](https://rootsecdev.medium.com)
+* [SCCMentor - sccmentor.com](https://sccmentor.com/)
+* [SCloud - scloud.work](https://scloud.work/)
+* [SMB to the Cloud - smbtothecloud.com](https://smbtothecloud.com/)
+* [Sander Van Rooij - svrooij.io](https://svrooij.io/)
+* [Secure Cloud Blog - securecloud.blog](https://securecloud.blog/)
+* [SecureD IAM - securediam.com](https://securediam.com/)
+* [Silvio Di Benedetto - silviodibenedetto.com](https://www.silviodibenedetto.com/)
+* [Sky Cliffs - skycliffs.wordpress.com](https://skycliffs.wordpress.com/)
+* [Sky made simple - blog.skymadesimple.io](https://blog.skymadesimple.io/)
+* [Sonnes Cloud Blog - blog.sonnes.cloud](https://blog.sonnes.cloud/)
+* [Sysanddeploy - systanddeploy.com](https://www.systanddeploy.com)
+* [TBone - tbone.se](https://www.tbone.se/)
+* [That Lazy Admin - thatlazyadmin.com](http://www.thatlazyadmin.com)
+* [The New Control Plane - medium.com/the-new-control-plane](https://medium.com/the-new-control-plane)
+* [Undocumented Features - undocumented-features.com](https://www.undocumented-features.com/)
+* [Zero Trust - zerotrust.how](https://zerotrust.how/)
+* [Tech Mind Factory](https://www.techmindfactory.com)
+
+### User Groups
+
+* [Dutch Microsoft Entra Community](https://aka.ms/dmec)
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._

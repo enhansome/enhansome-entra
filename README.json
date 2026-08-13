@@ -1,0 +1,882 @@
+{
+  "items": [
+    {
+      "description": "These learning hubs are maintained by Microsoft Entra's Customer Experience Engineering (CxE) team.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Identity Master Class",
+          "description": "Lab & Resource Source for Identity Master Class - Experts Live Denmark 2026",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-26T15:23:52Z",
+            "owner": "IdentityMan",
+            "repo": "MasterclassELDK26",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entra ID as Code Workshop",
+          "description": "Manage your Entra ID tenant using Infrastructure as Code via Terraform. This workshop supports both Workforce and Customer (External ID) instances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-07-27T19:01:07Z",
+            "owner": "mjendza",
+            "repo": "workshop-entra-as-code-interactive",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Learning Hubs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Evilginx",
+          "description": "Man-in-the-middle attack framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-10T12:12:03Z",
+            "owner": "kgretzky",
+            "repo": "evilginx2",
+            "stars": 15475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BloodHound",
+          "description": "BloodHound uses graph theory to reveal hidden relationships and attack paths in an Active Directory environment that would otherwise be impossible to quickly identify.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-03-02T18:29:31Z",
+            "owner": "SpecterOps",
+            "repo": "BloodHound-Legacy",
+            "stars": 10603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScoutSuite",
+          "description": "Multi-Cloud Security auditing tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-23T18:33:52Z",
+            "owner": "nccgroup",
+            "repo": "ScoutSuite",
+            "stars": 7788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ping Castle",
+          "description": "Security Assessment Tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T17:36:31Z",
+            "owner": "netwrix",
+            "repo": "pingcastle",
+            "stars": 2923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROADrecon",
+          "description": "Tool for exploring information in Azure AD from both a Red Team and Blue Team perspective.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T13:43:22Z",
+            "owner": "dirkjanm",
+            "repo": "ROADtools",
+            "stars": 2691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScubaGear - cisa.gov",
+          "description": "PowerShell module developed by CISA to verify M365 tenant configuration confirms to Secure Cloud Business Applications (SCuBA) Security Configuration Baseline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-13T02:46:46Z",
+            "owner": "cisagov",
+            "repo": "ScubaGear",
+            "stars": 2639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MicroBurst",
+          "description": "PowerShell Toolkit for Attacking Azure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-06-29T14:43:59Z",
+            "owner": "NetSPI",
+            "repo": "MicroBurst",
+            "stars": 2415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft365DSC",
+          "description": "Manages, configures, extracts and monitors Microsoft 365 tenant configurations using PowerShell DSC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-13T05:10:16Z",
+            "owner": "Microsoft365DSC",
+            "repo": "Microsoft365DSC",
+            "stars": 2365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StormSpotter aka.ms/StormSpotter",
+          "description": "Azure Red Team tool for graphing Azure and Azure Active Directory objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-08T17:20:05Z",
+            "owner": "Azure",
+            "repo": "Stormspotter",
+            "stars": 1713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AADInternals",
+          "description": "PowerShell toolkit for administering and hacking Azure AD and Microsoft 365.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-09-30T18:30:24Z",
+            "owner": "Gerenios",
+            "repo": "AADInternals",
+            "stars": 1676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphRunner",
+          "description": "A Post-exploitation Toolset for Interacting with the Microsoft Graph API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-04-09T20:13:39Z",
+            "owner": "dafthack",
+            "repo": "GraphRunner",
+            "stars": 1333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerZure",
+          "description": "PowerShell project created to perform reconnaissance and exploitation of Azure, AzureAD, and the associated resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-10-18T01:37:00Z",
+            "owner": "hausec",
+            "repo": "PowerZure",
+            "stars": 1290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maester",
+          "description": "Automated test framework for conditional access and Entra configuration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T06:44:41Z",
+            "owner": "maester365",
+            "repo": "maester",
+            "stars": 1059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EntraGoat",
+          "description": "Deliberately vulnerable Microsoft Entra ID infrastructure to simulate security misconfigurations and attack vectors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-05-06T11:19:10Z",
+            "owner": "Semperis",
+            "repo": "EntraGoat",
+            "stars": 973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entra Exporter aka.ms/EntraExporter",
+          "description": "PowerShell module that exports all the config and data of a Microsoft Entra tenant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-11-16T04:46:40Z",
+            "owner": "microsoft",
+            "repo": "EntraExporter",
+            "stars": 876
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure AD Assessment aka.ms/AzureADAssessmentTools",
+          "description": "Guidance to assess the health of an Azure AD tenant and provide best practice guidance / recommendations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-06-12T15:56:54Z",
+            "owner": "AzureAD",
+            "repo": "AzureADAssessment",
+            "stars": 851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft-Extractor-Suite - Invictus IR",
+          "description": "PowerShell module for acquisition of data from Microsoft 365 and Azure for Incident Response and Cyber Security purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-06-29T07:40:37Z",
+            "owner": "invictus-ir",
+            "repo": "Microsoft-Extractor-Suite",
+            "stars": 837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TokenTactics",
+          "description": "Tool to test and demonstrate the impact of token-based attacks on Microsoft Entra.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-12-06T15:51:42Z",
+            "owner": "rvrsh3ll",
+            "repo": "TokenTactics",
+            "stars": 737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M365Documentation",
+          "description": "Automatic Microsoft 365 Documentation to simplify the life of admins and consultants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-03-15T13:48:54Z",
+            "owner": "ThomasKur",
+            "repo": "M365Documentation",
+            "stars": 627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BadZure",
+          "description": "A tool to simulate common Entra security misconfigurations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T03:15:29Z",
+            "owner": "mvelazc0",
+            "repo": "BadZure",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TokenTacticsV2",
+          "description": "Fork of the great TokenTactics with support for CAE and token endpoint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-12T21:46:36Z",
+            "owner": "f-bader",
+            "repo": "TokenTacticsV2",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DCToolbox",
+          "description": "Collection of tools for Conditional Access automation, what-if simulation and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-11-26T13:29:09Z",
+            "owner": "DanielChronlund",
+            "repo": "DCToolbox",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "family-of-client-ids-research",
+          "description": "Research into Undocumented Behavior of Azure AD Refresh Tokens",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-23T18:52:12Z",
+            "owner": "secureworks",
+            "repo": "family-of-client-ids-research",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CA Optics",
+          "description": "Conditional Access gap analyzer",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-08-28T09:27:49Z",
+            "owner": "jsa2",
+            "repo": "caOptics",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MSIdentityTools aka.ms/msid",
+          "description": "Collection of useful cmdlets for common Entra functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-11-18T07:57:19Z",
+            "owner": "AzureAD",
+            "repo": "MSIdentityTools",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EntraOps",
+          "description": "Classify, identify and protect your privileges based on Enterprise Access Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-06-24T07:00:34Z",
+            "owner": "Cloud-Architekt",
+            "repo": "EntraOps",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AzADServicePrincipalInsights",
+          "description": "Insights and change tracking on Service Principals/ Applications and Managed Identities (outputs html, csv, json).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-05T08:26:54Z",
+            "owner": "JulianHayward",
+            "repo": "AzADServicePrincipalInsights",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft First Party AppNames aka.ms/AppNames",
+          "description": "Repository hosting a daily updated csv/json of Microsoft first party app names and their GUIDs (useful for kql queries and scripts).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-11T18:24:20Z",
+            "owner": "merill",
+            "repo": "microsoft-info",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyPIM",
+          "description": "Manage PIM Azure Resource role and assignment with ease.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-04-12T11:28:17Z",
+            "owner": "kayasax",
+            "repo": "EasyPIM",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AzurePrivilegedIAM",
+          "description": "Docs and samples for privileged identity and access management in Microsoft Azure and Microsoft Entra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T05:30:30Z",
+            "owner": "Cloud-Architekt",
+            "repo": "AzurePrivilegedIAM",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConditionalAccessDocumentation",
+          "description": "PowerShell module to document Conditional Access policies in Excel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-06-23T08:04:07Z",
+            "owner": "nicolonsky",
+            "repo": "ConditionalAccessDocumentation",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft-Cloud-Group-Analyzer",
+          "description": "Provides instant insights in what services, policies,... a given group or user is scoped to.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-02T15:35:52Z",
+            "owner": "jasperbaes",
+            "repo": "Microsoft-Cloud-Group-Analyzer",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft cloud group analyzer",
+          "description": "Sript that provides insights in what services/policies/... a given group or user is scoped to.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-02T15:35:52Z",
+            "owner": "jasperbaes",
+            "repo": "Microsoft-Cloud-Group-Analyzer",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROPCI",
+          "description": "Identify MFA gaps in your Entra configuration that allow API access through ROPC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-11-21T03:15:42Z",
+            "owner": "wunderwuzzi23",
+            "repo": "ropci",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure-AccessPermissions",
+          "description": "Script to enumerate access permissions in an Azure Active Directory environment",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2023-02-21T06:46:24Z",
+            "owner": "csandker",
+            "repo": "Azure-AccessPermissions",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "365AutomatedLab",
+          "description": "Create a Microsoft 365 Test Environment using a test data from an Excel workbook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-02-27T12:24:36Z",
+            "owner": "DevClate",
+            "repo": "365AutomatedLab",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiniGraph",
+          "description": "Minimal overhead Microsoft Graph client implementation for lean environment like Azure Functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-03-19T09:50:20Z",
+            "owner": "FriedrichWeinmann",
+            "repo": "MiniGraph",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M365IdentityPosture",
+          "description": "M365IdentityPosture is an extensible PowerShell framework for security posture assessment and identity governance reporting across Microsoft 365, Azure AD/Entra ID, and hybrid environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-05-21T13:38:28Z",
+            "owner": "Noble-Effeciency13",
+            "repo": "M365IdentityPosture",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entra Export Template",
+          "description": "Workflows for scheduled export of settings from an Entra tenant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-06-19T08:33:43Z",
+            "owner": "aaronparker",
+            "repo": "entra-export-template",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JWTDetails",
+          "description": "Decode a JWT Access Token and convert to a PowerShell Object. PowerShell Object also includes the JWT Signature (sig), JWT Token Expiry (expiryDateTime) and JWT Token time to expiry (timeToExpiry).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-07-04T00:02:57Z",
+            "owner": "darrenjrobinson",
+            "repo": "JWTDetails",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MicrosoftGraphPS",
+          "description": "Version manager for the Graph PowerShell SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-04-28T09:46:19Z",
+            "owner": "KnudsenMorten",
+            "repo": "MicrosoftGraphPS",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PSMSGraphBatchRequest",
+          "description": "PowerShell module to transform data into Microsoft Graph Batch Requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-01-26T12:46:21Z",
+            "owner": "HCRitter",
+            "repo": "PSMSGraphBatchRequest",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AzurePasswordProtectionCalculator",
+          "description": "Calculator for Azure Password Protection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-02T18:20:03Z",
+            "owner": "jkerai1",
+            "repo": "AzurePasswordProtectionCalculator",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "X509Details",
+          "description": "Decode an X509 Certificate and present it as a PowerShell Object. Certificate PowerShell Object details updated to include the X509 Certificate time to expiry (timeToExpiry).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-05-28T07:15:02Z",
+            "owner": "darrenjrobinson",
+            "repo": "X509Details",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AzureADTenantID",
+          "description": "PowerShell module to retrieve the TenantID for an Azure AD Tenant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-07-21T00:17:13Z",
+            "owner": "darrenjrobinson",
+            "repo": "AzureADTenantID",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConvertTime",
+          "description": "Convert Unix/Windows timestamps to a DateTime PowerShell Object. Get Unix/Windows time from a PowerShell DateTime Object.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-01-07T22:58:38Z",
+            "owner": "darrenjrobinson",
+            "repo": "ConvertTime",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PKCE Code Verifier and Challenge Generator",
+          "description": "Generate OAuth 2.0 Proof Key for Code Exchange (PKCE) 'code_challenge' and 'code_verifier' for use with an OAuth2 Authorization Code Grant flow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-10-27T22:25:12Z",
+            "owner": "darrenjrobinson",
+            "repo": "PKCE",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Passkey Provider AAGUID's",
+          "description": "Programatically manage Passkey Providers AAGUIDs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-11-17T22:10:16Z",
+            "owner": "darrenjrobinson",
+            "repo": "PasskeyProviderAAGUIDs",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DIDSearcher",
+          "description": "A PowerShell Module enabling simple methods for searching the ION and Web networks for DIDs to discover their keys and endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-10-09T06:01:14Z",
+            "owner": "darrenjrobinson",
+            "repo": "DIDSearcher",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "CLI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SCIMTool",
+          "description": "Provisioning visibility & SCIM 2.0 monitor for Microsoft Entra — deploy in minutes, understand events instantly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-23T10:57:00Z",
+            "owner": "kayasax",
+            "repo": "SCIMTool",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EntraPulse",
+          "description": "AI-Powered Gateway to Microsoft Graph & Docs. Local and Cloud LLM support for Lokka and Docs/Learn MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-05T00:40:32Z",
+            "owner": "darrenjrobinson",
+            "repo": "EntraPulseLite",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Web apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Entra ID Security Config Analyzer (EIDSCA)",
+          "description": "Monitor Entra ID security configuration using Log Analytics, Azure Workbook and Sentinel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-06-30T12:29:45Z",
+            "owner": "Cloud-Architekt",
+            "repo": "AzureAD-Attack-Defense",
+            "stars": 2549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hunting Queries & Detection Rules - Azure Active Directory",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T17:56:56Z",
+            "owner": "Bert-JanP",
+            "repo": "Hunting-Queries-Detection-Rules",
+            "stars": 1731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dalonso-Security-Repo",
+          "description": "This space is dedicated to sharing knowledge, tools, and practical examples related to Microsoft Security technologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-02T08:51:30Z",
+            "owner": "davidalonsod",
+            "repo": "Dalonso-Security-Repo",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automatically Exclude BreakGlass Group From Conditional Access",
+          "description": "Logic App to automatically exclude a BreakGlass group from Conditional Access policies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T03:03:37Z",
+            "owner": "Cyberlorians",
+            "repo": "Articles",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EntraID-MFA-DynamicGroup",
+          "description": "Azure Runbook to automatically add users to a group based on MFA status.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-10-12T15:36:05Z",
+            "owner": "M365-Consultant",
+            "repo": "EntraID-MFA-DynamicGroup",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EntraID-Group-Cleanup",
+          "description": "Azure Runbook to automatically remove users from a group based on time of membership (e.g. 30 days).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-10-23T11:17:02Z",
+            "owner": "M365-Consultant",
+            "repo": "EntraID-Group-Cleanup",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Log Analytics, KQL, Logic Apps..."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "YouTube"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Shows"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Blogs"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:44:52.923Z",
+    "original_repository": "merill/awesome-entra",
+    "original_repository_sha": "21fc938d343df6e4b979c3b47bbb4fddaf8836cf",
+    "enhanced_repository": "enhansome/enhansome-entra",
+    "enhanced_repository_description": null,
+    "title": "Awesome Entra with stars"
+  }
+}
