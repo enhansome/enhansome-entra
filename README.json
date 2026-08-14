@@ -53,7 +53,7 @@
             "last_commit": "2026-06-10T12:12:03Z",
             "owner": "kgretzky",
             "repo": "evilginx2",
-            "stars": 15475
+            "stars": 15485
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-03-02T18:29:31Z",
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10603
+            "stars": 10606
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-05T13:43:22Z",
             "owner": "dirkjanm",
             "repo": "ROADtools",
-            "stars": 2691
+            "stars": 2696
           }
         },
         {
@@ -120,10 +120,10 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-13T02:46:46Z",
+            "last_commit": "2026-08-13T20:05:41Z",
             "owner": "cisagov",
             "repo": "ScubaGear",
-            "stars": 2639
+            "stars": 2640
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-08-13T05:10:16Z",
             "owner": "Microsoft365DSC",
             "repo": "Microsoft365DSC",
-            "stars": 2365
+            "stars": 2366
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-04-09T20:13:39Z",
             "owner": "dafthack",
             "repo": "GraphRunner",
-            "stars": 1333
+            "stars": 1334
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2025-10-18T01:37:00Z",
             "owner": "hausec",
             "repo": "PowerZure",
-            "stars": 1290
+            "stars": 1292
           }
         },
         {
@@ -218,10 +218,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-13T06:44:41Z",
+            "last_commit": "2026-08-14T00:42:43Z",
             "owner": "maester365",
             "repo": "maester",
-            "stars": 1059
+            "stars": 1062
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-05-06T11:19:10Z",
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 973
+            "stars": 974
           }
         },
         {
@@ -277,7 +277,7 @@
             "last_commit": "2026-06-29T07:40:37Z",
             "owner": "invictus-ir",
             "repo": "Microsoft-Extractor-Suite",
-            "stars": 837
+            "stars": 838
           }
         },
         {
@@ -330,10 +330,10 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-12T21:46:36Z",
+            "last_commit": "2026-08-13T21:29:50Z",
             "owner": "f-bader",
             "repo": "TokenTacticsV2",
-            "stars": 444
+            "stars": 445
           }
         },
         {
@@ -347,7 +347,7 @@
             "last_commit": "2024-11-26T13:29:09Z",
             "owner": "DanielChronlund",
             "repo": "DCToolbox",
-            "stars": 379
+            "stars": 380
           }
         },
         {
@@ -403,7 +403,7 @@
             "last_commit": "2026-06-24T07:00:34Z",
             "owner": "Cloud-Architekt",
             "repo": "EntraOps",
-            "stars": 294
+            "stars": 297
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-05T08:26:54Z",
             "owner": "JulianHayward",
             "repo": "AzADServicePrincipalInsights",
-            "stars": 254
+            "stars": 255
           }
         },
         {
@@ -456,10 +456,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T05:30:30Z",
+            "last_commit": "2026-08-13T13:41:52Z",
             "owner": "Cloud-Architekt",
             "repo": "AzurePrivilegedIAM",
-            "stars": 191
+            "stars": 192
           }
         },
         {
@@ -793,7 +793,7 @@
             "last_commit": "2026-07-23T17:56:56Z",
             "owner": "Bert-JanP",
             "repo": "Hunting-Queries-Detection-Rules",
-            "stars": 1731
+            "stars": 1732
           }
         },
         {
@@ -872,7 +872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:44:52.923Z",
+    "last_updated": "2026-08-14T09:39:42.393Z",
     "original_repository": "merill/awesome-entra",
     "original_repository_sha": "21fc938d343df6e4b979c3b47bbb4fddaf8836cf",
     "enhanced_repository": "enhansome/enhansome-entra",
