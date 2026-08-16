@@ -53,7 +53,7 @@
             "last_commit": "2026-06-10T12:12:03Z",
             "owner": "kgretzky",
             "repo": "evilginx2",
-            "stars": 15488
+            "stars": 15487
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-03-02T18:29:31Z",
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10604
+            "stars": 10606
           }
         },
         {
@@ -120,10 +120,10 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-14T16:47:09Z",
+            "last_commit": "2026-08-16T00:24:00Z",
             "owner": "cisagov",
             "repo": "ScubaGear",
-            "stars": 2641
+            "stars": 2642
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2026-06-29T14:43:59Z",
             "owner": "NetSPI",
             "repo": "MicroBurst",
-            "stars": 2415
+            "stars": 2416
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-08-13T05:10:16Z",
             "owner": "Microsoft365DSC",
             "repo": "Microsoft365DSC",
-            "stars": 2368
+            "stars": 2369
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2025-09-30T18:30:24Z",
             "owner": "Gerenios",
             "repo": "AADInternals",
-            "stars": 1676
+            "stars": 1677
           }
         },
         {
@@ -277,7 +277,7 @@
             "last_commit": "2026-06-29T07:40:37Z",
             "owner": "invictus-ir",
             "repo": "Microsoft-Extractor-Suite",
-            "stars": 838
+            "stars": 837
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2026-08-13T13:41:52Z",
             "owner": "Cloud-Architekt",
             "repo": "AzurePrivilegedIAM",
-            "stars": 193
+            "stars": 199
           }
         },
         {
@@ -779,7 +779,7 @@
             "last_commit": "2026-06-30T12:29:45Z",
             "owner": "Cloud-Architekt",
             "repo": "AzureAD-Attack-Defense",
-            "stars": 2549
+            "stars": 2550
           }
         },
         {
@@ -872,7 +872,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:59:20.999Z",
+    "last_updated": "2026-08-16T08:59:55.891Z",
     "original_repository": "merill/awesome-entra",
     "original_repository_sha": "21fc938d343df6e4b979c3b47bbb4fddaf8836cf",
     "enhanced_repository": "enhansome/enhansome-entra",
