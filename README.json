@@ -98,7 +98,7 @@
                 "last_commit": "2026-08-11T17:36:31Z",
                 "owner": "netwrix",
                 "repo": "pingcastle",
-                "stars": 2928
+                "stars": 2929
               }
             },
             {
@@ -125,10 +125,10 @@
                 "archived": false,
                 "id": 516451110,
                 "language": "PowerShell",
-                "last_commit": "2026-08-18T19:24:09Z",
+                "last_commit": "2026-08-19T12:06:45Z",
                 "owner": "cisagov",
                 "repo": "ScubaGear",
-                "stars": 2645
+                "stars": 2646
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2026-08-17T21:41:24Z",
                 "owner": "f-bader",
                 "repo": "TokenTacticsV2",
-                "stars": 446
+                "stars": 447
               }
             },
             {
@@ -920,8 +920,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:08:22.175Z",
+    "last_updated": "2026-08-19T12:29:02.422Z",
     "original_repository": "merill/awesome-entra",
+    "original_repository_id": 674483677,
     "original_repository_sha": "21fc938d343df6e4b979c3b47bbb4fddaf8836cf",
     "enhanced_repository": "enhansome/enhansome-entra",
     "enhanced_repository_description": null,
