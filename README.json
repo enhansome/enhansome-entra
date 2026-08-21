@@ -53,7 +53,7 @@
                 "last_commit": "2026-06-10T12:12:03Z",
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15510
+                "stars": 15516
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2025-09-23T18:33:52Z",
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7795
+                "stars": 7794
               }
             },
             {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-08-05T13:43:22Z",
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2699
+                "stars": 2698
               }
             },
             {
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 516451110,
                 "language": "PowerShell",
-                "last_commit": "2026-08-20T02:51:24Z",
+                "last_commit": "2026-08-20T20:18:50Z",
                 "owner": "cisagov",
                 "repo": "ScubaGear",
                 "stars": 2647
@@ -155,7 +155,7 @@
                 "archived": false,
                 "id": 158580093,
                 "language": "PowerShell",
-                "last_commit": "2026-08-20T07:19:28Z",
+                "last_commit": "2026-08-20T20:46:29Z",
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
                 "stars": 2371
@@ -173,7 +173,7 @@
                 "last_commit": "2024-01-08T17:20:05Z",
                 "owner": "Azure",
                 "repo": "Stormspotter",
-                "stars": 1713
+                "stars": 1714
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2026-04-09T20:13:39Z",
                 "owner": "dafthack",
                 "repo": "GraphRunner",
-                "stars": 1334
+                "stars": 1332
               }
             },
             {
@@ -218,7 +218,7 @@
                 "last_commit": "2025-10-18T01:37:00Z",
                 "owner": "hausec",
                 "repo": "PowerZure",
-                "stars": 1292
+                "stars": 1293
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-18T05:20:17Z",
                 "owner": "maester365",
                 "repo": "maester",
-                "stars": 1063
+                "stars": 1065
               }
             },
             {
@@ -263,7 +263,7 @@
                 "last_commit": "2025-11-16T04:46:40Z",
                 "owner": "microsoft",
                 "repo": "EntraExporter",
-                "stars": 878
+                "stars": 877
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2026-06-29T07:40:37Z",
                 "owner": "invictus-ir",
                 "repo": "Microsoft-Extractor-Suite",
-                "stars": 838
+                "stars": 839
               }
             },
             {
@@ -455,7 +455,7 @@
                 "archived": false,
                 "id": 675642153,
                 "language": "PowerShell",
-                "last_commit": "2026-08-19T17:49:57Z",
+                "last_commit": "2026-08-20T17:56:16Z",
                 "owner": "merill",
                 "repo": "microsoft-info",
                 "stars": 243
@@ -485,7 +485,7 @@
                 "archived": false,
                 "id": 430830048,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T08:58:33Z",
+                "last_commit": "2026-08-21T05:45:05Z",
                 "owner": "Cloud-Architekt",
                 "repo": "AzurePrivilegedIAM",
                 "stars": 202
@@ -862,7 +862,7 @@
                 "last_commit": "2026-08-02T08:51:30Z",
                 "owner": "davidalonsod",
                 "repo": "Dalonso-Security-Repo",
-                "stars": 115
+                "stars": 117
               }
             },
             {
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:08:37.620Z",
+    "last_updated": "2026-08-21T09:18:01.556Z",
     "original_repository": "merill/awesome-entra",
     "original_repository_id": 674483677,
     "original_repository_sha": "21fc938d343df6e4b979c3b47bbb4fddaf8836cf",
