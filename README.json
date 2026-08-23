@@ -53,7 +53,7 @@
                 "last_commit": "2026-06-10T12:12:03Z",
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15518
+                "stars": 15520
               }
             },
             {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-03-02T18:29:31Z",
                 "owner": "SpecterOps",
                 "repo": "BloodHound-Legacy",
-                "stars": 10602
+                "stars": 10603
               }
             },
             {
@@ -98,7 +98,7 @@
                 "last_commit": "2026-08-11T17:36:31Z",
                 "owner": "netwrix",
                 "repo": "pingcastle",
-                "stars": 2930
+                "stars": 2933
               }
             },
             {
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 516451110,
                 "language": "PowerShell",
-                "last_commit": "2026-08-21T20:10:48Z",
+                "last_commit": "2026-08-23T00:23:56Z",
                 "owner": "cisagov",
                 "repo": "ScubaGear",
                 "stars": 2647
@@ -155,7 +155,7 @@
                 "archived": false,
                 "id": 158580093,
                 "language": "PowerShell",
-                "last_commit": "2026-08-20T20:46:29Z",
+                "last_commit": "2026-08-22T18:47:19Z",
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
                 "stars": 2373
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-18T05:20:17Z",
                 "owner": "maester365",
                 "repo": "maester",
-                "stars": 1067
+                "stars": 1068
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-05-06T11:19:10Z",
                 "owner": "Semperis",
                 "repo": "EntraGoat",
-                "stars": 974
+                "stars": 975
               }
             },
             {
@@ -859,7 +859,7 @@
                 "archived": false,
                 "id": 1161690030,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T10:30:23Z",
+                "last_commit": "2026-08-22T12:52:16Z",
                 "owner": "davidalonsod",
                 "repo": "Dalonso-Security-Repo",
                 "stars": 117
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:00:28.866Z",
+    "last_updated": "2026-08-23T09:00:57.754Z",
     "original_repository": "merill/awesome-entra",
     "original_repository_id": 674483677,
     "original_repository_sha": "21fc938d343df6e4b979c3b47bbb4fddaf8836cf",
