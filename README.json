@@ -53,7 +53,7 @@
                 "last_commit": "2026-06-10T12:12:03Z",
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15520
+                "stars": 15524
               }
             },
             {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-03-02T18:29:31Z",
                 "owner": "SpecterOps",
                 "repo": "BloodHound-Legacy",
-                "stars": 10603
+                "stars": 10604
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2025-09-23T18:33:52Z",
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7795
+                "stars": 7797
               }
             },
             {
@@ -98,7 +98,7 @@
                 "last_commit": "2026-08-11T17:36:31Z",
                 "owner": "netwrix",
                 "repo": "pingcastle",
-                "stars": 2933
+                "stars": 2935
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-08-23T00:23:56Z",
                 "owner": "cisagov",
                 "repo": "ScubaGear",
-                "stars": 2647
+                "stars": 2649
               }
             },
             {
@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-22T18:47:19Z",
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
-                "stars": 2373
+                "stars": 2375
               }
             },
             {
@@ -230,10 +230,10 @@
                 "archived": false,
                 "id": 719483049,
                 "language": "HTML",
-                "last_commit": "2026-08-18T05:20:17Z",
+                "last_commit": "2026-08-24T07:30:27Z",
                 "owner": "maester365",
                 "repo": "maester",
-                "stars": 1068
+                "stars": 1069
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2026-06-29T07:40:37Z",
                 "owner": "invictus-ir",
                 "repo": "Microsoft-Extractor-Suite",
-                "stars": 839
+                "stars": 838
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2026-08-17T21:41:24Z",
                 "owner": "f-bader",
                 "repo": "TokenTacticsV2",
-                "stars": 447
+                "stars": 448
               }
             },
             {
@@ -443,7 +443,7 @@
                 "last_commit": "2026-08-05T08:26:54Z",
                 "owner": "JulianHayward",
                 "repo": "AzADServicePrincipalInsights",
-                "stars": 256
+                "stars": 257
               }
             },
             {
@@ -485,10 +485,10 @@
                 "archived": false,
                 "id": 430830048,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T05:45:05Z",
+                "last_commit": "2026-08-24T07:10:54Z",
                 "owner": "Cloud-Architekt",
                 "repo": "AzurePrivilegedIAM",
-                "stars": 202
+                "stars": 204
               }
             },
             {
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:00:57.754Z",
+    "last_updated": "2026-08-24T09:27:57.598Z",
     "original_repository": "merill/awesome-entra",
     "original_repository_id": 674483677,
     "original_repository_sha": "21fc938d343df6e4b979c3b47bbb4fddaf8836cf",
