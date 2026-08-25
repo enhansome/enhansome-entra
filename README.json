@@ -859,7 +859,7 @@
                 "archived": false,
                 "id": 1161690030,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-24T11:15:38Z",
+                "last_commit": "2026-08-25T09:04:59Z",
                 "owner": "davidalonsod",
                 "repo": "Dalonso-Security-Repo",
                 "stars": 118
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:09:48.227Z",
+    "last_updated": "2026-08-25T09:17:49.197Z",
     "original_repository": "merill/awesome-entra",
     "original_repository_id": 674483677,
     "original_repository_sha": "21fc938d343df6e4b979c3b47bbb4fddaf8836cf",
