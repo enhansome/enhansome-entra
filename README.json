@@ -53,7 +53,7 @@
                 "last_commit": "2026-06-10T12:12:03Z",
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15532
+                "stars": 15536
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2025-09-23T18:33:52Z",
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7800
+                "stars": 7802
               }
             },
             {
@@ -98,7 +98,7 @@
                 "last_commit": "2026-08-11T17:36:31Z",
                 "owner": "netwrix",
                 "repo": "pingcastle",
-                "stars": 2936
+                "stars": 2938
               }
             },
             {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-08-05T13:43:22Z",
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2703
+                "stars": 2704
               }
             },
             {
@@ -125,10 +125,10 @@
                 "archived": false,
                 "id": 516451110,
                 "language": "PowerShell",
-                "last_commit": "2026-08-25T23:51:00Z",
+                "last_commit": "2026-08-27T02:47:31Z",
                 "owner": "cisagov",
                 "repo": "ScubaGear",
-                "stars": 2649
+                "stars": 2651
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-06-29T14:43:59Z",
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2425
+                "stars": 2426
               }
             },
             {
@@ -155,7 +155,7 @@
                 "archived": false,
                 "id": 158580093,
                 "language": "PowerShell",
-                "last_commit": "2026-08-22T18:47:19Z",
+                "last_commit": "2026-08-27T11:35:09Z",
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
                 "stars": 2375
@@ -188,7 +188,7 @@
                 "last_commit": "2025-09-30T18:30:24Z",
                 "owner": "Gerenios",
                 "repo": "AADInternals",
-                "stars": 1682
+                "stars": 1683
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2026-04-09T20:13:39Z",
                 "owner": "dafthack",
                 "repo": "GraphRunner",
-                "stars": 1333
+                "stars": 1334
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-26T02:56:59Z",
                 "owner": "maester365",
                 "repo": "maester",
-                "stars": 1072
+                "stars": 1074
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-05-06T11:19:10Z",
                 "owner": "Semperis",
                 "repo": "EntraGoat",
-                "stars": 974
+                "stars": 975
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2026-08-06T03:15:29Z",
                 "owner": "mvelazc0",
                 "repo": "BadZure",
-                "stars": 518
+                "stars": 522
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2026-08-17T21:41:24Z",
                 "owner": "f-bader",
                 "repo": "TokenTacticsV2",
-                "stars": 448
+                "stars": 450
               }
             },
             {
@@ -832,7 +832,7 @@
                 "last_commit": "2026-06-30T12:29:45Z",
                 "owner": "Cloud-Architekt",
                 "repo": "AzureAD-Attack-Defense",
-                "stars": 2553
+                "stars": 2554
               }
             },
             {
@@ -859,10 +859,10 @@
                 "archived": false,
                 "id": 1161690030,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T08:15:26Z",
+                "last_commit": "2026-08-27T10:41:34Z",
                 "owner": "davidalonsod",
                 "repo": "Dalonso-Security-Repo",
-                "stars": 118
+                "stars": 132
               }
             },
             {
@@ -920,9 +920,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:22:50.084Z",
-    "original_repository": "merill/awesome-entra",
-    "original_repository_id": 674483677,
+    "last_updated": "2026-08-27T11:37:02.190Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 674483677,
+      "language": null,
+      "last_commit": "2026-06-02T10:19:16Z",
+      "owner": "merill",
+      "repo": "awesome-entra",
+      "stars": 772
+    },
     "original_repository_sha": "21fc938d343df6e4b979c3b47bbb4fddaf8836cf",
     "enhanced_repository": "enhansome/enhansome-entra",
     "enhanced_repository_description": null,
