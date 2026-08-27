@@ -53,7 +53,7 @@
                 "last_commit": "2026-06-10T12:12:03Z",
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15536
+                "stars": 15537
               }
             },
             {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-08-05T13:43:22Z",
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2704
+                "stars": 2705
               }
             },
             {
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 516451110,
                 "language": "PowerShell",
-                "last_commit": "2026-08-27T02:47:31Z",
+                "last_commit": "2026-08-27T18:35:49Z",
                 "owner": "cisagov",
                 "repo": "ScubaGear",
                 "stars": 2651
@@ -155,10 +155,10 @@
                 "archived": false,
                 "id": 158580093,
                 "language": "PowerShell",
-                "last_commit": "2026-08-27T11:35:09Z",
+                "last_commit": "2026-08-27T12:12:29Z",
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
-                "stars": 2375
+                "stars": 2376
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2025-09-30T18:30:24Z",
                 "owner": "Gerenios",
                 "repo": "AADInternals",
-                "stars": 1683
+                "stars": 1684
               }
             },
             {
@@ -862,7 +862,7 @@
                 "last_commit": "2026-08-27T10:41:34Z",
                 "owner": "davidalonsod",
                 "repo": "Dalonso-Security-Repo",
-                "stars": 132
+                "stars": 135
               }
             },
             {
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:02.190Z",
+    "last_updated": "2026-08-27T19:14:44.722Z",
     "original_repository_info": {
       "archived": false,
       "id": 674483677,
