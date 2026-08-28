@@ -16,7 +16,8 @@
             "owner": "IdentityMan",
             "repo": "MasterclassELDK26",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T20:20:57.994Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mjendza",
             "repo": "workshop-entra-as-code-interactive",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T20:20:57.994Z"
         }
       ],
       "title": "Learning Hubs"
@@ -53,8 +55,9 @@
                 "last_commit": "2026-06-10T12:12:03Z",
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15537
-              }
+                "stars": 15542
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -69,7 +72,8 @@
                 "owner": "SpecterOps",
                 "repo": "BloodHound-Legacy",
                 "stars": 10606
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -83,8 +87,9 @@
                 "last_commit": "2025-09-23T18:33:52Z",
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7802
-              }
+                "stars": 7803
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "netwrix",
                 "repo": "pingcastle",
                 "stars": 2938
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
                 "stars": 2705
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -125,11 +132,12 @@
                 "archived": false,
                 "id": 516451110,
                 "language": "PowerShell",
-                "last_commit": "2026-08-27T18:35:49Z",
+                "last_commit": "2026-08-28T19:10:37Z",
                 "owner": "cisagov",
                 "repo": "ScubaGear",
                 "stars": 2651
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -143,8 +151,9 @@
                 "last_commit": "2026-06-29T14:43:59Z",
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2426
-              }
+                "stars": 2427
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -155,11 +164,12 @@
                 "archived": false,
                 "id": 158580093,
                 "language": "PowerShell",
-                "last_commit": "2026-08-27T12:12:29Z",
+                "last_commit": "2026-08-28T10:02:52Z",
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
                 "stars": 2376
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "Azure",
                 "repo": "Stormspotter",
                 "stars": 1717
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -188,8 +199,9 @@
                 "last_commit": "2025-09-30T18:30:24Z",
                 "owner": "Gerenios",
                 "repo": "AADInternals",
-                "stars": 1684
-              }
+                "stars": 1685
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "dafthack",
                 "repo": "GraphRunner",
                 "stars": 1334
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "hausec",
                 "repo": "PowerZure",
                 "stars": 1293
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -233,8 +247,9 @@
                 "last_commit": "2026-08-26T02:56:59Z",
                 "owner": "maester365",
                 "repo": "maester",
-                "stars": 1074
-              }
+                "stars": 1077
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -248,8 +263,9 @@
                 "last_commit": "2026-05-06T11:19:10Z",
                 "owner": "Semperis",
                 "repo": "EntraGoat",
-                "stars": 975
-              }
+                "stars": 976
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -264,7 +280,8 @@
                 "owner": "microsoft",
                 "repo": "EntraExporter",
                 "stars": 879
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -279,7 +296,8 @@
                 "owner": "AzureAD",
                 "repo": "AzureADAssessment",
                 "stars": 853
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -294,7 +312,8 @@
                 "owner": "invictus-ir",
                 "repo": "Microsoft-Extractor-Suite",
                 "stars": 838
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -309,7 +328,8 @@
                 "owner": "rvrsh3ll",
                 "repo": "TokenTactics",
                 "stars": 737
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -324,7 +344,8 @@
                 "owner": "ThomasKur",
                 "repo": "M365Documentation",
                 "stars": 628
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -335,11 +356,12 @@
                 "archived": false,
                 "id": 636541972,
                 "language": "Python",
-                "last_commit": "2026-08-06T03:15:29Z",
+                "last_commit": "2026-08-27T22:39:04Z",
                 "owner": "mvelazc0",
                 "repo": "BadZure",
-                "stars": 522
-              }
+                "stars": 524
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -354,7 +376,8 @@
                 "owner": "f-bader",
                 "repo": "TokenTacticsV2",
                 "stars": 450
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -369,7 +392,8 @@
                 "owner": "DanielChronlund",
                 "repo": "DCToolbox",
                 "stars": 381
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -384,7 +408,8 @@
                 "owner": "secureworks",
                 "repo": "family-of-client-ids-research",
                 "stars": 368
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -399,7 +424,8 @@
                 "owner": "jsa2",
                 "repo": "caOptics",
                 "stars": 337
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -414,7 +440,8 @@
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
                 "stars": 302
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -429,7 +456,8 @@
                 "owner": "AzureAD",
                 "repo": "MSIdentityTools",
                 "stars": 300
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -444,7 +472,8 @@
                 "owner": "JulianHayward",
                 "repo": "AzADServicePrincipalInsights",
                 "stars": 258
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -455,11 +484,12 @@
                 "archived": false,
                 "id": 675642153,
                 "language": "PowerShell",
-                "last_commit": "2026-08-25T17:55:41Z",
+                "last_commit": "2026-08-28T17:36:58Z",
                 "owner": "merill",
                 "repo": "microsoft-info",
                 "stars": 243
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -474,7 +504,8 @@
                 "owner": "kayasax",
                 "repo": "EasyPIM",
                 "stars": 235
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -489,7 +520,8 @@
                 "owner": "Cloud-Architekt",
                 "repo": "AzurePrivilegedIAM",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -504,7 +536,8 @@
                 "owner": "nicolonsky",
                 "repo": "ConditionalAccessDocumentation",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -519,7 +552,8 @@
                 "owner": "jasperbaes",
                 "repo": "Microsoft-Cloud-Group-Analyzer",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -534,7 +568,8 @@
                 "owner": "jasperbaes",
                 "repo": "Microsoft-Cloud-Group-Analyzer",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -549,7 +584,8 @@
                 "owner": "wunderwuzzi23",
                 "repo": "ropci",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -564,7 +600,8 @@
                 "owner": "csandker",
                 "repo": "Azure-AccessPermissions",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -579,7 +616,8 @@
                 "owner": "DevClate",
                 "repo": "365AutomatedLab",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -594,7 +632,8 @@
                 "owner": "FriedrichWeinmann",
                 "repo": "MiniGraph",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -609,7 +648,8 @@
                 "owner": "Noble-Effeciency13",
                 "repo": "M365IdentityPosture",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -624,7 +664,8 @@
                 "owner": "aaronparker",
                 "repo": "entra-export-template",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -639,7 +680,8 @@
                 "owner": "darrenjrobinson",
                 "repo": "JWTDetails",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -654,7 +696,8 @@
                 "owner": "KnudsenMorten",
                 "repo": "MicrosoftGraphPS",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -669,7 +712,8 @@
                 "owner": "HCRitter",
                 "repo": "PSMSGraphBatchRequest",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -684,7 +728,8 @@
                 "owner": "jkerai1",
                 "repo": "AzurePasswordProtectionCalculator",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -699,7 +744,8 @@
                 "owner": "darrenjrobinson",
                 "repo": "X509Details",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -714,7 +760,8 @@
                 "owner": "darrenjrobinson",
                 "repo": "AzureADTenantID",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -729,7 +776,8 @@
                 "owner": "darrenjrobinson",
                 "repo": "ConvertTime",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -744,7 +792,8 @@
                 "owner": "darrenjrobinson",
                 "repo": "PKCE",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -759,7 +808,8 @@
                 "owner": "darrenjrobinson",
                 "repo": "PasskeyProviderAAGUIDs",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -774,7 +824,8 @@
                 "owner": "darrenjrobinson",
                 "repo": "DIDSearcher",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             }
           ],
           "description": null,
@@ -796,7 +847,8 @@
                 "owner": "kayasax",
                 "repo": "SCIMTool",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -811,7 +863,8 @@
                 "owner": "darrenjrobinson",
                 "repo": "EntraPulseLite",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             }
           ],
           "description": null,
@@ -833,7 +886,8 @@
                 "owner": "Cloud-Architekt",
                 "repo": "AzureAD-Attack-Defense",
                 "stars": 2554
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -848,7 +902,8 @@
                 "owner": "Bert-JanP",
                 "repo": "Hunting-Queries-Detection-Rules",
                 "stars": 1732
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -859,11 +914,12 @@
                 "archived": false,
                 "id": 1161690030,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-27T10:41:34Z",
+                "last_commit": "2026-08-28T10:11:56Z",
                 "owner": "davidalonsod",
                 "repo": "Dalonso-Security-Repo",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -878,7 +934,8 @@
                 "owner": "Cyberlorians",
                 "repo": "Articles",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -893,7 +950,8 @@
                 "owner": "M365-Consultant",
                 "repo": "EntraID-MFA-DynamicGroup",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             },
             {
               "node_type": "item",
@@ -908,7 +966,8 @@
                 "owner": "M365-Consultant",
                 "repo": "EntraID-Group-Cleanup",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
             }
           ],
           "description": null,
@@ -920,7 +979,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:14:44.722Z",
+    "last_updated": "2026-08-28T20:20:57.994Z",
     "original_repository_info": {
       "archived": false,
       "id": 674483677,
