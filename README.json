@@ -73,7 +73,7 @@
                 "open_issues": 271,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15543,
+                "stars": 15546,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -115,7 +115,7 @@
                 "open_issues": 296,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7803,
+                "stars": 7804,
                 "topics": [
                   "auditing",
                   "aws",
@@ -418,7 +418,7 @@
                 "open_issues": 6,
                 "owner": "Semperis",
                 "repo": "EntraGoat",
-                "stars": 977,
+                "stars": 978,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:40:41.000Z",
+    "last_updated": "2026-08-29T13:59:14.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
