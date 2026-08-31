@@ -73,7 +73,7 @@
                 "open_issues": 271,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15553,
+                "stars": 15558,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -115,7 +115,7 @@
                 "open_issues": 296,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7804,
+                "stars": 7807,
                 "topics": [
                   "auditing",
                   "aws",
@@ -143,7 +143,7 @@
                 "open_issues": 59,
                 "owner": "netwrix",
                 "repo": "pingcastle",
-                "stars": 2938,
+                "stars": 2940,
                 "topics": [
                   "active-directory",
                   "ciso",
@@ -199,11 +199,11 @@
                 "id": 516451110,
                 "language": "PowerShell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-08-30T00:57:02Z",
-                "open_issues": 233,
+                "last_commit": "2026-08-31T12:42:30Z",
+                "open_issues": 236,
                 "owner": "cisagov",
                 "repo": "ScubaGear",
-                "stars": 2651,
+                "stars": 2652,
                 "topics": [
                   "assessment-tool",
                   "cisa",
@@ -259,7 +259,7 @@
                 "open_issues": 68,
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
-                "stars": 2377,
+                "stars": 2378,
                 "topics": [
                   "azuread",
                   "configuration-as-code",
@@ -362,7 +362,7 @@
                 "open_issues": 4,
                 "owner": "hausec",
                 "repo": "PowerZure",
-                "stars": 1293,
+                "stars": 1295,
                 "topics": [
                   "azure",
                   "infosec",
@@ -385,11 +385,11 @@
                 "id": 719483049,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-08-26T02:56:59Z",
-                "open_issues": 55,
+                "last_commit": "2026-08-31T13:58:08Z",
+                "open_issues": 56,
                 "owner": "maester365",
                 "repo": "maester",
-                "stars": 1077,
+                "stars": 1079,
                 "topics": [
                   "config-as-code",
                   "configuration-management",
@@ -418,7 +418,7 @@
                 "open_issues": 6,
                 "owner": "Semperis",
                 "repo": "EntraGoat",
-                "stars": 978,
+                "stars": 979,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -439,7 +439,7 @@
                 "open_issues": 21,
                 "owner": "microsoft",
                 "repo": "EntraExporter",
-                "stars": 879,
+                "stars": 878,
                 "topics": [
                   "azuread",
                   "backup",
@@ -732,7 +732,7 @@
                 "id": 675642153,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-08-30T10:35:40Z",
+                "last_commit": "2026-08-31T11:44:54Z",
                 "open_issues": 3,
                 "owner": "merill",
                 "repo": "microsoft-info",
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:58:53.512Z",
+    "last_updated": "2026-08-31T16:21:16.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
