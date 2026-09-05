@@ -73,7 +73,7 @@
                 "open_issues": 271,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15570,
+                "stars": 15578,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -94,7 +94,7 @@
                 "open_issues": 93,
                 "owner": "SpecterOps",
                 "repo": "BloodHound-Legacy",
-                "stars": 10609,
+                "stars": 10612,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -143,7 +143,7 @@
                 "open_issues": 60,
                 "owner": "netwrix",
                 "repo": "pingcastle",
-                "stars": 2941,
+                "stars": 2942,
                 "topics": [
                   "active-directory",
                   "ciso",
@@ -177,7 +177,7 @@
                 "open_issues": 13,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2710,
+                "stars": 2711,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -199,7 +199,7 @@
                 "id": 516451110,
                 "language": "PowerShell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-03T22:47:02Z",
+                "last_commit": "2026-09-04T17:42:33Z",
                 "open_issues": 234,
                 "owner": "cisagov",
                 "repo": "ScubaGear",
@@ -256,7 +256,7 @@
                 "language": "PowerShell",
                 "license": "MIT",
                 "last_commit": "2026-09-03T16:56:55Z",
-                "open_issues": 69,
+                "open_issues": 70,
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
                 "stars": 2378,
@@ -320,7 +320,7 @@
                 "open_issues": 23,
                 "owner": "Gerenios",
                 "repo": "AADInternals",
-                "stars": 1688,
+                "stars": 1690,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -385,11 +385,11 @@
                 "id": 719483049,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-03T00:48:13Z",
-                "open_issues": 60,
+                "last_commit": "2026-09-04T14:10:59Z",
+                "open_issues": 59,
                 "owner": "maester365",
                 "repo": "maester",
-                "stars": 1082,
+                "stars": 1083,
                 "topics": [
                   "config-as-code",
                   "configuration-management",
@@ -418,7 +418,7 @@
                 "open_issues": 6,
                 "owner": "Semperis",
                 "repo": "EntraGoat",
-                "stars": 979,
+                "stars": 980,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -580,7 +580,7 @@
                 "open_issues": 1,
                 "owner": "f-bader",
                 "repo": "TokenTacticsV2",
-                "stars": 452,
+                "stars": 453,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -661,7 +661,7 @@
                 "language": "PowerShell",
                 "license": "MIT",
                 "last_commit": "2026-06-24T07:00:34Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
                 "stars": 303,
@@ -926,7 +926,7 @@
                 "open_issues": 0,
                 "owner": "DevClate",
                 "repo": "365AutomatedLab",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:54:26.722Z",
+    "last_updated": "2026-09-05T12:00:55.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
