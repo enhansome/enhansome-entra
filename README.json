@@ -73,7 +73,7 @@
                 "open_issues": 269,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15607,
+                "stars": 15611,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -94,7 +94,7 @@
                 "open_issues": 93,
                 "owner": "SpecterOps",
                 "repo": "BloodHound-Legacy",
-                "stars": 10615,
+                "stars": 10617,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -115,7 +115,7 @@
                 "open_issues": 298,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7815,
+                "stars": 7816,
                 "topics": [
                   "auditing",
                   "aws",
@@ -143,7 +143,7 @@
                 "open_issues": 60,
                 "owner": "netwrix",
                 "repo": "pingcastle",
-                "stars": 2941,
+                "stars": 2942,
                 "topics": [
                   "active-directory",
                   "ciso",
@@ -177,7 +177,7 @@
                 "open_issues": 13,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2718,
+                "stars": 2719,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -199,11 +199,11 @@
                 "id": 516451110,
                 "language": "PowerShell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-09T06:33:09Z",
-                "open_issues": 232,
+                "last_commit": "2026-09-10T02:46:41Z",
+                "open_issues": 224,
                 "owner": "cisagov",
                 "repo": "ScubaGear",
-                "stars": 2657,
+                "stars": 2658,
                 "topics": [
                   "assessment-tool",
                   "cisa",
@@ -259,7 +259,7 @@
                 "open_issues": 72,
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
-                "stars": 2385,
+                "stars": 2386,
                 "topics": [
                   "azuread",
                   "configuration-as-code",
@@ -362,7 +362,7 @@
                 "open_issues": 4,
                 "owner": "hausec",
                 "repo": "PowerZure",
-                "stars": 1295,
+                "stars": 1296,
                 "topics": [
                   "azure",
                   "infosec",
@@ -385,8 +385,8 @@
                 "id": 719483049,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-08T15:48:14Z",
-                "open_issues": 60,
+                "last_commit": "2026-09-10T11:07:28Z",
+                "open_issues": 62,
                 "owner": "maester365",
                 "repo": "maester",
                 "stars": 1086,
@@ -664,7 +664,7 @@
                 "open_issues": 16,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
-                "stars": 309,
+                "stars": 318,
                 "topics": [
                   "azuread",
                   "microsoftentraid",
@@ -834,7 +834,7 @@
                 "open_issues": 9,
                 "owner": "jasperbaes",
                 "repo": "Microsoft-Cloud-Group-Analyzer",
-                "stars": 164,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -855,7 +855,7 @@
                 "open_issues": 9,
                 "owner": "jasperbaes",
                 "repo": "Microsoft-Cloud-Group-Analyzer",
-                "stars": 164,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -1370,7 +1370,7 @@
                 "open_issues": 9,
                 "owner": "davidalonsod",
                 "repo": "Dalonso-Security-Repo",
-                "stars": 142,
+                "stars": 145,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:08:11.206Z",
+    "last_updated": "2026-09-10T13:05:52.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
