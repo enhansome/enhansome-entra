@@ -73,7 +73,7 @@
                 "open_issues": 269,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15615,
+                "stars": 15622,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -94,7 +94,7 @@
                 "open_issues": 93,
                 "owner": "SpecterOps",
                 "repo": "BloodHound-Legacy",
-                "stars": 10617,
+                "stars": 10616,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -115,7 +115,7 @@
                 "open_issues": 298,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7816,
+                "stars": 7815,
                 "topics": [
                   "auditing",
                   "aws",
@@ -143,7 +143,7 @@
                 "open_issues": 60,
                 "owner": "netwrix",
                 "repo": "pingcastle",
-                "stars": 2942,
+                "stars": 2943,
                 "topics": [
                   "active-directory",
                   "ciso",
@@ -199,11 +199,11 @@
                 "id": 516451110,
                 "language": "PowerShell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-11T12:32:49Z",
-                "open_issues": 228,
+                "last_commit": "2026-09-11T20:03:54Z",
+                "open_issues": 230,
                 "owner": "cisagov",
                 "repo": "ScubaGear",
-                "stars": 2659,
+                "stars": 2660,
                 "topics": [
                   "assessment-tool",
                   "cisa",
@@ -320,7 +320,7 @@
                 "open_issues": 23,
                 "owner": "Gerenios",
                 "repo": "AADInternals",
-                "stars": 1692,
+                "stars": 1693,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -386,7 +386,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-09-11T02:55:25Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "maester365",
                 "repo": "maester",
                 "stars": 1088,
@@ -661,7 +661,7 @@
                 "language": "PowerShell",
                 "license": "MIT",
                 "last_commit": "2026-09-08T15:41:13Z",
-                "open_issues": 16,
+                "open_issues": 15,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
                 "stars": 321,
@@ -786,7 +786,7 @@
                 "open_issues": 0,
                 "owner": "Cloud-Architekt",
                 "repo": "AzurePrivilegedIAM",
-                "stars": 214,
+                "stars": 216,
                 "topics": [
                   "azure",
                   "enterprise-access-model",
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:59:45.116Z",
+    "last_updated": "2026-09-12T12:20:44.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
