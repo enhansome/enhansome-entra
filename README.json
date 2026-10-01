@@ -94,7 +94,7 @@
                 "open_issues": 93,
                 "owner": "SpecterOps",
                 "repo": "BloodHound-Legacy",
-                "stars": 10610,
+                "stars": 10608,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -115,7 +115,7 @@
                 "open_issues": 297,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7831,
+                "stars": 7832,
                 "topics": [
                   "auditing",
                   "aws",
@@ -143,7 +143,7 @@
                 "open_issues": 61,
                 "owner": "netwrix",
                 "repo": "pingcastle",
-                "stars": 2956,
+                "stars": 2957,
                 "topics": [
                   "active-directory",
                   "ciso",
@@ -177,7 +177,7 @@
                 "open_issues": 13,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2728,
+                "stars": 2730,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -199,11 +199,11 @@
                 "id": 516451110,
                 "language": "PowerShell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-30T13:32:59Z",
-                "open_issues": 232,
+                "last_commit": "2026-10-01T12:31:39Z",
+                "open_issues": 226,
                 "owner": "cisagov",
                 "repo": "ScubaGear",
-                "stars": 2688,
+                "stars": 2689,
                 "topics": [
                   "assessment-tool",
                   "cisa",
@@ -255,8 +255,8 @@
                 "id": 158580093,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-09-30T08:27:37Z",
-                "open_issues": 48,
+                "last_commit": "2026-09-30T18:33:33Z",
+                "open_issues": 49,
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
                 "stars": 2402,
@@ -299,7 +299,7 @@
                 "open_issues": 23,
                 "owner": "Azure",
                 "repo": "Stormspotter",
-                "stars": 1722,
+                "stars": 1721,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -320,7 +320,7 @@
                 "open_issues": 23,
                 "owner": "Gerenios",
                 "repo": "AADInternals",
-                "stars": 1700,
+                "stars": 1701,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -383,13 +383,13 @@
                 "description": "Maester is a test automation framework to help you stay in control of your Microsoft security configuration.",
                 "homepage": "https://maester.dev",
                 "id": 719483049,
-                "language": "HTML",
+                "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-09-29T13:46:25Z",
-                "open_issues": 58,
+                "last_commit": "2026-10-01T13:21:23Z",
+                "open_issues": 53,
                 "owner": "maester365",
                 "repo": "maester",
-                "stars": 1119,
+                "stars": 1120,
                 "topics": [
                   "config-as-code",
                   "configuration-management",
@@ -465,7 +465,7 @@
                 "open_issues": 3,
                 "owner": "invictus-ir",
                 "repo": "Microsoft-Extractor-Suite",
-                "stars": 855,
+                "stars": 856,
                 "topics": [
                   "microsoft",
                   "microsoft365"
@@ -732,7 +732,7 @@
                 "id": 675642153,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-09-29T21:30:15Z",
+                "last_commit": "2026-10-01T11:45:00Z",
                 "open_issues": 3,
                 "owner": "merill",
                 "repo": "microsoft-info",
@@ -1307,7 +1307,7 @@
                 "open_issues": 9,
                 "owner": "Cloud-Architekt",
                 "repo": "AzureAD-Attack-Defense",
-                "stars": 2557,
+                "stars": 2558,
                 "topics": [
                   "azureactivedirectory",
                   "itdr",
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T15:14:59.111Z",
+    "last_updated": "2026-10-01T15:38:09.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
