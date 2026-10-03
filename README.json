@@ -94,7 +94,7 @@
                 "open_issues": 93,
                 "owner": "SpecterOps",
                 "repo": "BloodHound-Legacy",
-                "stars": 10607,
+                "stars": 10608,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -385,8 +385,8 @@
                 "id": 719483049,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-02T23:43:01Z",
-                "open_issues": 51,
+                "last_commit": "2026-10-03T12:51:35Z",
+                "open_issues": 54,
                 "owner": "maester365",
                 "repo": "maester",
                 "stars": 1121,
@@ -664,7 +664,7 @@
                 "open_issues": 18,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
-                "stars": 329,
+                "stars": 330,
                 "topics": [
                   "azuread",
                   "microsoftentraid",
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:42:00.107Z",
+    "last_updated": "2026-10-03T13:40:41.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
