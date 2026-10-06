@@ -73,7 +73,7 @@
                 "open_issues": 266,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15688,
+                "stars": 15692,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -143,7 +143,7 @@
                 "open_issues": 61,
                 "owner": "netwrix",
                 "repo": "pingcastle",
-                "stars": 2958,
+                "stars": 2959,
                 "topics": [
                   "active-directory",
                   "ciso",
@@ -177,7 +177,7 @@
                 "open_issues": 13,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2731,
+                "stars": 2732,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -199,7 +199,7 @@
                 "id": 516451110,
                 "language": "PowerShell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-05T16:48:31Z",
+                "last_commit": "2026-10-06T01:36:04Z",
                 "open_issues": 228,
                 "owner": "cisagov",
                 "repo": "ScubaGear",
@@ -255,11 +255,11 @@
                 "id": 158580093,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-02T10:29:54Z",
-                "open_issues": 47,
+                "last_commit": "2026-10-06T09:07:11Z",
+                "open_issues": 50,
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
-                "stars": 2400,
+                "stars": 2402,
                 "topics": [
                   "azuread",
                   "configuration-as-code",
@@ -299,7 +299,7 @@
                 "open_issues": 23,
                 "owner": "Azure",
                 "repo": "Stormspotter",
-                "stars": 1720,
+                "stars": 1721,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -385,11 +385,11 @@
                 "id": 719483049,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-05T14:47:58Z",
-                "open_issues": 57,
+                "last_commit": "2026-10-06T07:28:07Z",
+                "open_issues": 59,
                 "owner": "maester365",
                 "repo": "maester",
-                "stars": 1123,
+                "stars": 1122,
                 "topics": [
                   "config-as-code",
                   "configuration-management",
@@ -418,7 +418,7 @@
                 "open_issues": 6,
                 "owner": "Semperis",
                 "repo": "EntraGoat",
-                "stars": 986,
+                "stars": 985,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -465,7 +465,7 @@
                 "open_issues": 3,
                 "owner": "invictus-ir",
                 "repo": "Microsoft-Extractor-Suite",
-                "stars": 857,
+                "stars": 856,
                 "topics": [
                   "microsoft",
                   "microsoft365"
@@ -580,7 +580,7 @@
                 "open_issues": 0,
                 "owner": "f-bader",
                 "repo": "TokenTacticsV2",
-                "stars": 463,
+                "stars": 464,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -660,7 +660,7 @@
                 "id": 804524445,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-05T10:55:30Z",
+                "last_commit": "2026-10-06T09:28:26Z",
                 "open_issues": 18,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
@@ -732,11 +732,11 @@
                 "id": 675642153,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-01T11:45:00Z",
+                "last_commit": "2026-10-05T23:16:26Z",
                 "open_issues": 3,
                 "owner": "merill",
                 "repo": "microsoft-info",
-                "stars": 245,
+                "stars": 244,
                 "topics": [
                   "apps",
                   "entra",
@@ -1303,11 +1303,11 @@
                 "id": 308235594,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-05T12:55:22Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-06T09:26:42Z",
+                "open_issues": 10,
                 "owner": "Cloud-Architekt",
                 "repo": "AzureAD-Attack-Defense",
-                "stars": 2559,
+                "stars": 2560,
                 "topics": [
                   "azureactivedirectory",
                   "itdr",
@@ -1333,7 +1333,7 @@
                 "open_issues": 0,
                 "owner": "Bert-JanP",
                 "repo": "Hunting-Queries-Detection-Rules",
-                "stars": 1756,
+                "stars": 1758,
                 "topics": [
                   "azure",
                   "blueteam",
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T17:22:23.989Z",
+    "last_updated": "2026-10-06T10:19:22.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
