@@ -73,7 +73,7 @@
                 "open_issues": 266,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15704,
+                "stars": 15706,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -177,7 +177,7 @@
                 "open_issues": 13,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2738,
+                "stars": 2737,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -238,7 +238,7 @@
                 "open_issues": 5,
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2446,
+                "stars": 2454,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -259,7 +259,7 @@
                 "open_issues": 51,
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
-                "stars": 2407,
+                "stars": 2408,
                 "topics": [
                   "azuread",
                   "configuration-as-code",
@@ -385,8 +385,8 @@
                 "id": 719483049,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-10T14:41:18Z",
-                "open_issues": 61,
+                "last_commit": "2026-10-11T09:13:51Z",
+                "open_issues": 62,
                 "owner": "maester365",
                 "repo": "maester",
                 "stars": 1127,
@@ -465,7 +465,7 @@
                 "open_issues": 3,
                 "owner": "invictus-ir",
                 "repo": "Microsoft-Extractor-Suite",
-                "stars": 856,
+                "stars": 857,
                 "topics": [
                   "microsoft",
                   "microsoft365"
@@ -664,7 +664,7 @@
                 "open_issues": 18,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
-                "stars": 329,
+                "stars": 331,
                 "topics": [
                   "azuread",
                   "microsoftentraid",
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:41:26.535Z",
+    "last_updated": "2026-10-11T15:03:34.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
