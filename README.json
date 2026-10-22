@@ -40,7 +40,7 @@
             "open_issues": 2,
             "owner": "mjendza",
             "repo": "workshop-entra-as-code-interactive",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "entra-id",
               "entra-id-governance",
@@ -73,7 +73,7 @@
                 "open_issues": 266,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15760,
+                "stars": 15769,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -94,7 +94,7 @@
                 "open_issues": 93,
                 "owner": "SpecterOps",
                 "repo": "BloodHound-Legacy",
-                "stars": 10618,
+                "stars": 10621,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -115,7 +115,7 @@
                 "open_issues": 297,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7855,
+                "stars": 7858,
                 "topics": [
                   "auditing",
                   "aws",
@@ -173,11 +173,11 @@
                 "id": 250760872,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-17T16:39:50Z",
+                "last_commit": "2026-10-22T08:04:44Z",
                 "open_issues": 13,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2744,
+                "stars": 2749,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -199,11 +199,11 @@
                 "id": 516451110,
                 "language": "PowerShell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-21T12:55:56Z",
-                "open_issues": 251,
+                "last_commit": "2026-10-22T13:30:54Z",
+                "open_issues": 248,
                 "owner": "cisagov",
                 "repo": "ScubaGear",
-                "stars": 2733,
+                "stars": 2734,
                 "topics": [
                   "assessment-tool",
                   "cisa",
@@ -255,11 +255,11 @@
                 "id": 158580093,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-21T13:10:15Z",
-                "open_issues": 48,
+                "last_commit": "2026-10-21T19:34:23Z",
+                "open_issues": 47,
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
-                "stars": 2425,
+                "stars": 2428,
                 "topics": [
                   "azuread",
                   "configuration-as-code",
@@ -341,7 +341,7 @@
                 "open_issues": 4,
                 "owner": "dafthack",
                 "repo": "GraphRunner",
-                "stars": 1347,
+                "stars": 1348,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -385,11 +385,11 @@
                 "id": 719483049,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-21T11:54:41Z",
-                "open_issues": 88,
+                "last_commit": "2026-10-22T12:30:50Z",
+                "open_issues": 71,
                 "owner": "maester365",
                 "repo": "maester",
-                "stars": 1151,
+                "stars": 1155,
                 "topics": [
                   "config-as-code",
                   "configuration-management",
@@ -418,7 +418,7 @@
                 "open_issues": 6,
                 "owner": "Semperis",
                 "repo": "EntraGoat",
-                "stars": 1005,
+                "stars": 1008,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -429,7 +429,7 @@
               "description": "PowerShell module that exports all the config and data of a Microsoft Entra tenant.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "PowerShell module to export a local copy of an Entra (Azure AD) tenant configuration.",
                 "homepage": "https://aka.ms/EntraExporter",
                 "id": 350141611,
@@ -465,7 +465,7 @@
                 "open_issues": 2,
                 "owner": "invictus-ir",
                 "repo": "Microsoft-Extractor-Suite",
-                "stars": 861,
+                "stars": 862,
                 "topics": [
                   "microsoft",
                   "microsoft365"
@@ -622,7 +622,7 @@
                 "open_issues": 3,
                 "owner": "secureworks",
                 "repo": "family-of-client-ids-research",
-                "stars": 373,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -660,8 +660,8 @@
                 "id": 804524445,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-21T09:26:48Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-22T11:34:24Z",
+                "open_issues": 15,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
                 "stars": 333,
@@ -732,11 +732,11 @@
                 "id": 675642153,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-19T21:39:45Z",
+                "last_commit": "2026-10-22T10:26:00Z",
                 "open_issues": 3,
                 "owner": "merill",
                 "repo": "microsoft-info",
-                "stars": 246,
+                "stars": 247,
                 "topics": [
                   "apps",
                   "entra",
@@ -1307,7 +1307,7 @@
                 "open_issues": 11,
                 "owner": "Cloud-Architekt",
                 "repo": "AzureAD-Attack-Defense",
-                "stars": 2575,
+                "stars": 2576,
                 "topics": [
                   "azureactivedirectory",
                   "itdr",
@@ -1370,7 +1370,7 @@
                 "open_issues": 9,
                 "owner": "davidalonsod",
                 "repo": "Dalonso-Security-Repo",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:05:45.399Z",
+    "last_updated": "2026-10-22T14:03:58.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
