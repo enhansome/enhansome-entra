@@ -73,7 +73,7 @@
                 "open_issues": 266,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15775,
+                "stars": 15781,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -115,7 +115,7 @@
                 "open_issues": 297,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7856,
+                "stars": 7857,
                 "topics": [
                   "auditing",
                   "aws",
@@ -143,7 +143,7 @@
                 "open_issues": 62,
                 "owner": "netwrix",
                 "repo": "pingcastle",
-                "stars": 2983,
+                "stars": 2982,
                 "topics": [
                   "active-directory",
                   "ciso",
@@ -177,7 +177,7 @@
                 "open_issues": 13,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2749,
+                "stars": 2747,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -256,10 +256,10 @@
                 "language": "PowerShell",
                 "license": "MIT",
                 "last_commit": "2026-10-21T19:34:23Z",
-                "open_issues": 55,
+                "open_issues": 56,
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
-                "stars": 2426,
+                "stars": 2427,
                 "topics": [
                   "azuread",
                   "configuration-as-code",
@@ -341,7 +341,7 @@
                 "open_issues": 4,
                 "owner": "dafthack",
                 "repo": "GraphRunner",
-                "stars": 1349,
+                "stars": 1348,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -385,8 +385,8 @@
                 "id": 719483049,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-24T12:48:15Z",
-                "open_issues": 90,
+                "last_commit": "2026-10-25T06:21:37Z",
+                "open_issues": 91,
                 "owner": "maester365",
                 "repo": "maester",
                 "stars": 1156,
@@ -418,7 +418,7 @@
                 "open_issues": 6,
                 "owner": "Semperis",
                 "repo": "EntraGoat",
-                "stars": 1019,
+                "stars": 1020,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -554,7 +554,7 @@
                 "open_issues": 0,
                 "owner": "mvelazc0",
                 "repo": "BadZure",
-                "stars": 529,
+                "stars": 528,
                 "topics": [
                   "attack-path",
                   "azure",
@@ -580,7 +580,7 @@
                 "open_issues": 0,
                 "owner": "f-bader",
                 "repo": "TokenTacticsV2",
-                "stars": 465,
+                "stars": 467,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -660,11 +660,11 @@
                 "id": 804524445,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-22T11:34:24Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-24T15:14:03Z",
+                "open_issues": 16,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
-                "stars": 334,
+                "stars": 335,
                 "topics": [
                   "azuread",
                   "microsoftentraid",
@@ -1307,7 +1307,7 @@
                 "open_issues": 11,
                 "owner": "Cloud-Architekt",
                 "repo": "AzureAD-Attack-Defense",
-                "stars": 2575,
+                "stars": 2574,
                 "topics": [
                   "azureactivedirectory",
                   "itdr",
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:54:13.752Z",
+    "last_updated": "2026-10-25T13:20:19.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
@@ -1464,7 +1464,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-02T10:19:16Z",
-      "open_issues": 13,
+      "open_issues": 8,
       "owner": "merill",
       "repo": "awesome-entra",
       "stars": 780,
