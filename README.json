@@ -73,7 +73,7 @@
                 "open_issues": 266,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15785,
+                "stars": 15791,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -115,7 +115,7 @@
                 "open_issues": 297,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7859,
+                "stars": 7860,
                 "topics": [
                   "auditing",
                   "aws",
@@ -199,11 +199,11 @@
                 "id": 516451110,
                 "language": "PowerShell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-26T14:55:38Z",
-                "open_issues": 248,
+                "last_commit": "2026-10-26T23:04:28Z",
+                "open_issues": 254,
                 "owner": "cisagov",
                 "repo": "ScubaGear",
-                "stars": 2737,
+                "stars": 2738,
                 "topics": [
                   "assessment-tool",
                   "cisa",
@@ -255,11 +255,11 @@
                 "id": 158580093,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-26T13:09:29Z",
-                "open_issues": 53,
+                "last_commit": "2026-10-27T14:12:41Z",
+                "open_issues": 48,
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
-                "stars": 2428,
+                "stars": 2431,
                 "topics": [
                   "azuread",
                   "configuration-as-code",
@@ -299,7 +299,7 @@
                 "open_issues": 23,
                 "owner": "Azure",
                 "repo": "Stormspotter",
-                "stars": 1733,
+                "stars": 1734,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -320,7 +320,7 @@
                 "open_issues": 23,
                 "owner": "Gerenios",
                 "repo": "AADInternals",
-                "stars": 1704,
+                "stars": 1705,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -385,11 +385,11 @@
                 "id": 719483049,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-26T13:10:42Z",
-                "open_issues": 92,
+                "last_commit": "2026-10-27T13:52:26Z",
+                "open_issues": 75,
                 "owner": "maester365",
                 "repo": "maester",
-                "stars": 1159,
+                "stars": 1161,
                 "topics": [
                   "config-as-code",
                   "configuration-management",
@@ -660,11 +660,11 @@
                 "id": 804524445,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-26T10:56:18Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-27T06:55:15Z",
+                "open_issues": 13,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
-                "stars": 335,
+                "stars": 336,
                 "topics": [
                   "azuread",
                   "microsoftentraid",
@@ -681,7 +681,7 @@
               "description": "Collection of useful cmdlets for common Entra functionality.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Repository for the Microsoft Identity Tools PowerShell module which provides various tools for performing enhanced Identity administration activities.",
                 "homepage": "https://aka.ms/msid",
                 "id": 453184588,
@@ -761,7 +761,7 @@
                 "open_issues": 2,
                 "owner": "kayasax",
                 "repo": "EasyPIM",
-                "stars": 234,
+                "stars": 235,
                 "topics": [
                   "entra-id",
                   "pim",
@@ -1307,7 +1307,7 @@
                 "open_issues": 10,
                 "owner": "Cloud-Architekt",
                 "repo": "AzureAD-Attack-Defense",
-                "stars": 2575,
+                "stars": 2574,
                 "topics": [
                   "azureactivedirectory",
                   "itdr",
@@ -1366,7 +1366,7 @@
                 "id": 1161690030,
                 "language": "Jupyter Notebook",
                 "license": "Unlicense",
-                "last_commit": "2026-10-21T13:06:44Z",
+                "last_commit": "2026-10-27T10:49:36Z",
                 "open_issues": 9,
                 "owner": "davidalonsod",
                 "repo": "Dalonso-Security-Repo",
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T15:26:37.084Z",
+    "last_updated": "2026-10-27T14:53:07.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
