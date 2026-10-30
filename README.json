@@ -73,7 +73,7 @@
                 "open_issues": 266,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15801,
+                "stars": 15805,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -94,7 +94,7 @@
                 "open_issues": 93,
                 "owner": "SpecterOps",
                 "repo": "BloodHound-Legacy",
-                "stars": 10624,
+                "stars": 10623,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -115,7 +115,7 @@
                 "open_issues": 297,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7863,
+                "stars": 7865,
                 "topics": [
                   "auditing",
                   "aws",
@@ -139,11 +139,11 @@
                 "id": 146924413,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T21:00:45Z",
-                "open_issues": 64,
+                "last_commit": "2026-10-29T17:52:16Z",
+                "open_issues": 63,
                 "owner": "netwrix",
                 "repo": "pingcastle",
-                "stars": 2987,
+                "stars": 2989,
                 "topics": [
                   "active-directory",
                   "ciso",
@@ -173,11 +173,11 @@
                 "id": 516451110,
                 "language": "PowerShell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-29T15:24:20Z",
+                "last_commit": "2026-10-30T11:17:48Z",
                 "open_issues": 256,
                 "owner": "cisagov",
                 "repo": "ScubaGear",
-                "stars": 2767,
+                "stars": 2769,
                 "topics": [
                   "assessment-tool",
                   "cisa",
@@ -209,10 +209,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-22T08:04:44Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2749,
+                "stars": 2750,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -256,10 +256,10 @@
                 "language": "PowerShell",
                 "license": "MIT",
                 "last_commit": "2026-10-29T11:38:43Z",
-                "open_issues": 48,
+                "open_issues": 50,
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
-                "stars": 2436,
+                "stars": 2439,
                 "topics": [
                   "azuread",
                   "configuration-as-code",
@@ -299,7 +299,7 @@
                 "open_issues": 23,
                 "owner": "Azure",
                 "repo": "Stormspotter",
-                "stars": 1733,
+                "stars": 1734,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -385,11 +385,11 @@
                 "id": 719483049,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-29T10:46:21Z",
-                "open_issues": 72,
+                "last_commit": "2026-10-30T13:53:29Z",
+                "open_issues": 66,
                 "owner": "maester365",
                 "repo": "maester",
-                "stars": 1165,
+                "stars": 1168,
                 "topics": [
                   "config-as-code",
                   "configuration-management",
@@ -580,7 +580,7 @@
                 "open_issues": 0,
                 "owner": "f-bader",
                 "repo": "TokenTacticsV2",
-                "stars": 470,
+                "stars": 471,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -629,6 +629,33 @@
             },
             {
               "node_type": "item",
+              "title": "EntraOps",
+              "description": "Classify, identify and protect your privileges based on Enterprise Access Model",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Community project to classify, identify and protect your privileges based on Enterprise Access Model (EAM)",
+                "homepage": "https://www.entraops.com",
+                "id": 804524445,
+                "language": "PowerShell",
+                "license": "MIT",
+                "last_commit": "2026-10-27T06:55:15Z",
+                "open_issues": 13,
+                "owner": "Cloud-Architekt",
+                "repo": "EntraOps",
+                "stars": 340,
+                "topics": [
+                  "azuread",
+                  "microsoftentraid",
+                  "powershell",
+                  "privileged-access-management",
+                  "privileged-access-security"
+                ]
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
+            },
+            {
+              "node_type": "item",
               "title": "CA Optics",
               "description": "Conditional Access gap analyzer",
               "children": [],
@@ -645,33 +672,6 @@
                 "repo": "caOptics",
                 "stars": 337,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T20:20:57.994Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EntraOps",
-              "description": "Classify, identify and protect your privileges based on Enterprise Access Model",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Community project to classify, identify and protect your privileges based on Enterprise Access Model (EAM)",
-                "homepage": "https://www.entraops.com",
-                "id": 804524445,
-                "language": "PowerShell",
-                "license": "MIT",
-                "last_commit": "2026-10-27T06:55:15Z",
-                "open_issues": 13,
-                "owner": "Cloud-Architekt",
-                "repo": "EntraOps",
-                "stars": 337,
-                "topics": [
-                  "azuread",
-                  "microsoftentraid",
-                  "powershell",
-                  "privileged-access-management",
-                  "privileged-access-security"
-                ]
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
             },
@@ -782,7 +782,7 @@
                 "id": 430830048,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T07:07:55Z",
+                "last_commit": "2026-10-30T12:19:50Z",
                 "open_issues": 0,
                 "owner": "Cloud-Architekt",
                 "repo": "AzurePrivilegedIAM",
@@ -1307,7 +1307,7 @@
                 "open_issues": 10,
                 "owner": "Cloud-Architekt",
                 "repo": "AzureAD-Attack-Defense",
-                "stars": 2575,
+                "stars": 2576,
                 "topics": [
                   "azureactivedirectory",
                   "itdr",
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T15:30:28.353Z",
+    "last_updated": "2026-10-30T15:17:53.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
