@@ -73,7 +73,7 @@
                 "open_issues": 267,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15812,
+                "stars": 15817,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -94,7 +94,7 @@
                 "open_issues": 93,
                 "owner": "SpecterOps",
                 "repo": "BloodHound-Legacy",
-                "stars": 10624,
+                "stars": 10623,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -115,7 +115,7 @@
                 "open_issues": 297,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7868,
+                "stars": 7869,
                 "topics": [
                   "auditing",
                   "aws",
@@ -143,7 +143,7 @@
                 "open_issues": 63,
                 "owner": "netwrix",
                 "repo": "pingcastle",
-                "stars": 2990,
+                "stars": 2992,
                 "topics": [
                   "active-directory",
                   "ciso",
@@ -177,7 +177,7 @@
                 "open_issues": 260,
                 "owner": "cisagov",
                 "repo": "ScubaGear",
-                "stars": 2778,
+                "stars": 2779,
                 "topics": [
                   "assessment-tool",
                   "cisa",
@@ -320,7 +320,7 @@
                 "open_issues": 23,
                 "owner": "Gerenios",
                 "repo": "AADInternals",
-                "stars": 1705,
+                "stars": 1704,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -385,8 +385,8 @@
                 "id": 719483049,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-31T06:31:05Z",
-                "open_issues": 70,
+                "last_commit": "2026-11-01T14:51:23Z",
+                "open_issues": 75,
                 "owner": "maester365",
                 "repo": "maester",
                 "stars": 1170,
@@ -554,7 +554,7 @@
                 "open_issues": 0,
                 "owner": "mvelazc0",
                 "repo": "BadZure",
-                "stars": 529,
+                "stars": 530,
                 "topics": [
                   "attack-path",
                   "azure",
@@ -1307,7 +1307,7 @@
                 "open_issues": 10,
                 "owner": "Cloud-Architekt",
                 "repo": "AzureAD-Attack-Defense",
-                "stars": 2578,
+                "stars": 2579,
                 "topics": [
                   "azureactivedirectory",
                   "itdr",
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T14:42:39.224Z",
+    "last_updated": "2026-11-01T15:26:04.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
