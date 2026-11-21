@@ -36,7 +36,7 @@
             "id": 1127793945,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-20T16:24:20Z",
+            "last_commit": "2026-11-20T21:00:57Z",
             "open_issues": 4,
             "owner": "mjendza",
             "repo": "workshop-entra-as-code-interactive",
@@ -73,7 +73,7 @@
                 "open_issues": 267,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15953,
+                "stars": 15959,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -94,7 +94,7 @@
                 "open_issues": 93,
                 "owner": "SpecterOps",
                 "repo": "BloodHound-Legacy",
-                "stars": 10630,
+                "stars": 10631,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -173,8 +173,8 @@
                 "id": 516451110,
                 "language": "PowerShell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-20T15:35:08Z",
-                "open_issues": 250,
+                "last_commit": "2026-11-20T23:58:30Z",
+                "open_issues": 249,
                 "owner": "cisagov",
                 "repo": "ScubaGear",
                 "stars": 2804,
@@ -341,7 +341,7 @@
                 "open_issues": 4,
                 "owner": "dafthack",
                 "repo": "GraphRunner",
-                "stars": 1356,
+                "stars": 1357,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -386,7 +386,7 @@
                 "language": "PowerShell",
                 "license": "MIT",
                 "last_commit": "2026-11-17T20:13:59Z",
-                "open_issues": 153,
+                "open_issues": 155,
                 "owner": "maester365",
                 "repo": "maester",
                 "stars": 1194,
@@ -418,7 +418,7 @@
                 "open_issues": 6,
                 "owner": "Semperis",
                 "repo": "EntraGoat",
-                "stars": 1031,
+                "stars": 1032,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -462,7 +462,7 @@
                 "language": "PowerShell",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-17T08:55:15Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "invictus-ir",
                 "repo": "Microsoft-Extractor-Suite",
                 "stars": 869,
@@ -533,7 +533,7 @@
                 "open_issues": 13,
                 "owner": "ThomasKur",
                 "repo": "M365Documentation",
-                "stars": 639,
+                "stars": 640,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T17:13:32.411Z",
+    "last_updated": "2026-11-21T16:21:35.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
