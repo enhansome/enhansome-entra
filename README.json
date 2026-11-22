@@ -73,7 +73,7 @@
                 "open_issues": 267,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15959,
+                "stars": 15961,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -177,7 +177,7 @@
                 "open_issues": 249,
                 "owner": "cisagov",
                 "repo": "ScubaGear",
-                "stars": 2804,
+                "stars": 2805,
                 "topics": [
                   "assessment-tool",
                   "cisa",
@@ -212,7 +212,7 @@
                 "open_issues": 14,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
-                "stars": 2774,
+                "stars": 2775,
                 "topics": [
                   "azure-active-directory",
                   "azuread",
@@ -259,7 +259,7 @@
                 "open_issues": 50,
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
-                "stars": 2469,
+                "stars": 2471,
                 "topics": [
                   "azuread",
                   "configuration-as-code",
@@ -386,7 +386,7 @@
                 "language": "PowerShell",
                 "license": "MIT",
                 "last_commit": "2026-11-17T20:13:59Z",
-                "open_issues": 155,
+                "open_issues": 160,
                 "owner": "maester365",
                 "repo": "maester",
                 "stars": 1194,
@@ -1333,7 +1333,7 @@
                 "open_issues": 4,
                 "owner": "Bert-JanP",
                 "repo": "Hunting-Queries-Detection-Rules",
-                "stars": 1778,
+                "stars": 1781,
                 "topics": [
                   "azure",
                   "blueteam",
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:21:35.726Z",
+    "last_updated": "2026-11-22T16:36:18.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
