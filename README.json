@@ -36,7 +36,7 @@
             "id": 1127793945,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-20T21:00:57Z",
+            "last_commit": "2026-11-23T17:13:05Z",
             "open_issues": 4,
             "owner": "mjendza",
             "repo": "workshop-entra-as-code-interactive",
@@ -73,7 +73,7 @@
                 "open_issues": 267,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15961,
+                "stars": 15970,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -94,7 +94,7 @@
                 "open_issues": 93,
                 "owner": "SpecterOps",
                 "repo": "BloodHound-Legacy",
-                "stars": 10631,
+                "stars": 10632,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -115,7 +115,7 @@
                 "open_issues": 298,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7883,
+                "stars": 7884,
                 "topics": [
                   "auditing",
                   "aws",
@@ -140,7 +140,7 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-05T10:15:01Z",
-                "open_issues": 63,
+                "open_issues": 62,
                 "owner": "netwrix",
                 "repo": "pingcastle",
                 "stars": 3008,
@@ -173,11 +173,11 @@
                 "id": 516451110,
                 "language": "PowerShell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-20T23:58:30Z",
-                "open_issues": 249,
+                "last_commit": "2026-11-23T19:17:31Z",
+                "open_issues": 248,
                 "owner": "cisagov",
                 "repo": "ScubaGear",
-                "stars": 2805,
+                "stars": 2806,
                 "topics": [
                   "assessment-tool",
                   "cisa",
@@ -224,27 +224,6 @@
             },
             {
               "node_type": "item",
-              "title": "MicroBurst",
-              "description": "PowerShell Toolkit for Attacking Azure.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A collection of scripts for assessing Microsoft Azure security",
-                "homepage": null,
-                "id": 141166681,
-                "language": "PowerShell",
-                "license": "BSD-3-Clause",
-                "last_commit": "2026-06-29T14:43:59Z",
-                "open_issues": 5,
-                "owner": "NetSPI",
-                "repo": "MicroBurst",
-                "stars": 2471,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:20:57.994Z"
-            },
-            {
-              "node_type": "item",
               "title": "Microsoft365DSC",
               "description": "Manages, configures, extracts and monitors Microsoft 365 tenant configurations using PowerShell DSC",
               "children": [],
@@ -255,11 +234,11 @@
                 "id": 158580093,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-11-19T07:57:44Z",
+                "last_commit": "2026-11-23T09:24:12Z",
                 "open_issues": 50,
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
-                "stars": 2471,
+                "stars": 2473,
                 "topics": [
                   "azuread",
                   "configuration-as-code",
@@ -285,6 +264,27 @@
             },
             {
               "node_type": "item",
+              "title": "MicroBurst",
+              "description": "PowerShell Toolkit for Attacking Azure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A collection of scripts for assessing Microsoft Azure security",
+                "homepage": null,
+                "id": 141166681,
+                "language": "PowerShell",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-06-29T14:43:59Z",
+                "open_issues": 5,
+                "owner": "NetSPI",
+                "repo": "MicroBurst",
+                "stars": 2471,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:20:57.994Z"
+            },
+            {
+              "node_type": "item",
               "title": "StormSpotter aka.ms/StormSpotter",
               "description": "Azure Red Team tool for graphing Azure and Azure Active Directory objects.",
               "children": [],
@@ -299,7 +299,7 @@
                 "open_issues": 21,
                 "owner": "Azure",
                 "repo": "Stormspotter",
-                "stars": 1737,
+                "stars": 1738,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -320,7 +320,7 @@
                 "open_issues": 23,
                 "owner": "Gerenios",
                 "repo": "AADInternals",
-                "stars": 1706,
+                "stars": 1707,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -385,11 +385,11 @@
                 "id": 719483049,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-11-17T20:13:59Z",
+                "last_commit": "2026-11-23T06:41:07Z",
                 "open_issues": 160,
                 "owner": "maester365",
                 "repo": "maester",
-                "stars": 1194,
+                "stars": 1196,
                 "topics": [
                   "config-as-code",
                   "configuration-management",
@@ -465,7 +465,7 @@
                 "open_issues": 4,
                 "owner": "invictus-ir",
                 "repo": "Microsoft-Extractor-Suite",
-                "stars": 869,
+                "stars": 872,
                 "topics": [
                   "microsoft",
                   "microsoft365"
@@ -598,7 +598,7 @@
                 "language": "PowerShell",
                 "license": null,
                 "last_commit": "2024-11-26T13:29:09Z",
-                "open_issues": 47,
+                "open_issues": 48,
                 "owner": "DanielChronlund",
                 "repo": "DCToolbox",
                 "stars": 382,
@@ -639,11 +639,11 @@
                 "id": 804524445,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-27T06:55:15Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-23T10:04:41Z",
+                "open_issues": 7,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
-                "stars": 344,
+                "stars": 345,
                 "topics": [
                   "azuread",
                   "microsoftentraid",
@@ -732,7 +732,7 @@
                 "id": 675642153,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-11-17T14:45:59Z",
+                "last_commit": "2026-11-23T16:19:41Z",
                 "open_issues": 8,
                 "owner": "merill",
                 "repo": "microsoft-info",
@@ -1329,8 +1329,8 @@
                 "id": 498037475,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-13T05:00:18Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-23T14:37:23Z",
+                "open_issues": 0,
                 "owner": "Bert-JanP",
                 "repo": "Hunting-Queries-Detection-Rules",
                 "stars": 1781,
@@ -1366,7 +1366,7 @@
                 "id": 1161690030,
                 "language": "Jupyter Notebook",
                 "license": "Unlicense",
-                "last_commit": "2026-11-17T09:33:52Z",
+                "last_commit": "2026-11-23T08:38:53Z",
                 "open_issues": 9,
                 "owner": "davidalonsod",
                 "repo": "Dalonso-Security-Repo",
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T16:36:18.334Z",
+    "last_updated": "2026-11-23T20:30:19.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
