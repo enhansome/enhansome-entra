@@ -36,11 +36,11 @@
             "id": 1127793945,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-24T19:30:38Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-25T15:44:24Z",
+            "open_issues": 4,
             "owner": "mjendza",
             "repo": "workshop-entra-as-code-interactive",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "entra-id",
               "entra-id-governance",
@@ -73,7 +73,7 @@
                 "open_issues": 267,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15973,
+                "stars": 15982,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -94,7 +94,7 @@
                 "open_issues": 93,
                 "owner": "SpecterOps",
                 "repo": "BloodHound-Legacy",
-                "stars": 10632,
+                "stars": 10635,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -115,7 +115,7 @@
                 "open_issues": 298,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7885,
+                "stars": 7887,
                 "topics": [
                   "auditing",
                   "aws",
@@ -143,7 +143,7 @@
                 "open_issues": 62,
                 "owner": "netwrix",
                 "repo": "pingcastle",
-                "stars": 3008,
+                "stars": 3009,
                 "topics": [
                   "active-directory",
                   "ciso",
@@ -173,11 +173,11 @@
                 "id": 516451110,
                 "language": "PowerShell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-24T18:29:23Z",
+                "last_commit": "2026-11-25T16:33:14Z",
                 "open_issues": 244,
                 "owner": "cisagov",
                 "repo": "ScubaGear",
-                "stars": 2808,
+                "stars": 2809,
                 "topics": [
                   "assessment-tool",
                   "cisa",
@@ -209,7 +209,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-20T13:43:26Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "dirkjanm",
                 "repo": "ROADtools",
                 "stars": 2777,
@@ -234,11 +234,11 @@
                 "id": 158580093,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-11-24T13:01:17Z",
-                "open_issues": 55,
+                "last_commit": "2026-11-25T11:09:43Z",
+                "open_issues": 56,
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
-                "stars": 2477,
+                "stars": 2474,
                 "topics": [
                   "azuread",
                   "configuration-as-code",
@@ -278,7 +278,7 @@
                 "open_issues": 5,
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2472,
+                "stars": 2473,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -341,7 +341,7 @@
                 "open_issues": 4,
                 "owner": "dafthack",
                 "repo": "GraphRunner",
-                "stars": 1358,
+                "stars": 1359,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -462,7 +462,7 @@
                 "language": "PowerShell",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-17T08:55:15Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "invictus-ir",
                 "repo": "Microsoft-Extractor-Suite",
                 "stars": 872,
@@ -489,7 +489,7 @@
                 "open_issues": 3,
                 "owner": "AzureAD",
                 "repo": "AzureADAssessment",
-                "stars": 854,
+                "stars": 855,
                 "topics": [
                   "powershell"
                 ]
@@ -533,7 +533,7 @@
                 "open_issues": 13,
                 "owner": "ThomasKur",
                 "repo": "M365Documentation",
-                "stars": 640,
+                "stars": 641,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -580,7 +580,7 @@
                 "open_issues": 0,
                 "owner": "f-bader",
                 "repo": "TokenTacticsV2",
-                "stars": 477,
+                "stars": 478,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -643,7 +643,7 @@
                 "open_issues": 7,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
-                "stars": 346,
+                "stars": 347,
                 "topics": [
                   "azuread",
                   "microsoftentraid",
@@ -732,7 +732,7 @@
                 "id": 675642153,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-11-24T16:07:27Z",
+                "last_commit": "2026-11-25T15:54:36Z",
                 "open_issues": 8,
                 "owner": "merill",
                 "repo": "microsoft-info",
@@ -1370,7 +1370,7 @@
                 "open_issues": 9,
                 "owner": "davidalonsod",
                 "repo": "Dalonso-Security-Repo",
-                "stars": 155,
+                "stars": 156,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T19:41:07.071Z",
+    "last_updated": "2026-11-25T18:49:10.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
