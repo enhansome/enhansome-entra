@@ -36,7 +36,7 @@
             "id": 1127793945,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-25T15:44:24Z",
+            "last_commit": "2026-11-27T17:15:11Z",
             "open_issues": 4,
             "owner": "mjendza",
             "repo": "workshop-entra-as-code-interactive",
@@ -73,7 +73,7 @@
                 "open_issues": 267,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15991,
+                "stars": 15995,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -94,7 +94,7 @@
                 "open_issues": 93,
                 "owner": "SpecterOps",
                 "repo": "BloodHound-Legacy",
-                "stars": 10639,
+                "stars": 10640,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -115,7 +115,7 @@
                 "open_issues": 298,
                 "owner": "nccgroup",
                 "repo": "ScoutSuite",
-                "stars": 7887,
+                "stars": 7889,
                 "topics": [
                   "auditing",
                   "aws",
@@ -143,7 +143,7 @@
                 "open_issues": 62,
                 "owner": "netwrix",
                 "repo": "pingcastle",
-                "stars": 3010,
+                "stars": 3011,
                 "topics": [
                   "active-directory",
                   "ciso",
@@ -173,11 +173,11 @@
                 "id": 516451110,
                 "language": "PowerShell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-26T02:45:07Z",
-                "open_issues": 245,
+                "last_commit": "2026-11-27T02:21:03Z",
+                "open_issues": 246,
                 "owner": "cisagov",
                 "repo": "ScubaGear",
-                "stars": 2810,
+                "stars": 2812,
                 "topics": [
                   "assessment-tool",
                   "cisa",
@@ -234,11 +234,11 @@
                 "id": 158580093,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-11-25T22:14:04Z",
-                "open_issues": 56,
+                "last_commit": "2026-11-26T23:22:37Z",
+                "open_issues": 54,
                 "owner": "Microsoft365DSC",
                 "repo": "Microsoft365DSC",
-                "stars": 2475,
+                "stars": 2476,
                 "topics": [
                   "azuread",
                   "configuration-as-code",
@@ -278,7 +278,7 @@
                 "open_issues": 5,
                 "owner": "NetSPI",
                 "repo": "MicroBurst",
-                "stars": 2474,
+                "stars": 2473,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:57.994Z"
@@ -386,10 +386,10 @@
                 "language": "PowerShell",
                 "license": "MIT",
                 "last_commit": "2026-11-26T05:42:08Z",
-                "open_issues": 168,
+                "open_issues": 169,
                 "owner": "maester365",
                 "repo": "maester",
-                "stars": 1201,
+                "stars": 1202,
                 "topics": [
                   "config-as-code",
                   "configuration-management",
@@ -554,7 +554,7 @@
                 "open_issues": 0,
                 "owner": "mvelazc0",
                 "repo": "BadZure",
-                "stars": 536,
+                "stars": 537,
                 "topics": [
                   "attack-path",
                   "azure",
@@ -639,7 +639,7 @@
                 "id": 804524445,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-11-25T19:18:15Z",
+                "last_commit": "2026-11-27T16:08:05Z",
                 "open_issues": 7,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
@@ -782,7 +782,7 @@
                 "id": 430830048,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T07:33:43Z",
+                "last_commit": "2026-11-27T06:56:43Z",
                 "open_issues": 0,
                 "owner": "Cloud-Architekt",
                 "repo": "AzurePrivilegedIAM",
@@ -1455,7 +1455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:36:39.002Z",
+    "last_updated": "2026-11-27T18:25:52.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome list of all things related to Microsoft Entra",
